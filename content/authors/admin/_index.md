@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Maik Bieleke
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Senior Researcher in Sport Psychology
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: University of Konstanz
+  url: https://www.uni-konstanz.de/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
