@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr. Maik Bieleke
+title: Maik Bieleke
 
 # Is this the primary user of the site?
 superuser: true
