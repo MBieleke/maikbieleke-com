@@ -17,7 +17,12 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/georgecushen
+- icon: file-download
+  icon_pack: fas
+  name: Get Manual
+  url: https://twitter.com/georgecushen
 url_code: ""
+url_pdf: "uploads/2021_Bieleke-etal_ShortAEQ.pdf"
 url_pdf: "uploads/2021_Bieleke-etal_ShortAEQ.pdf"
 url_slides: ""
 url_video: ""
@@ -35,3 +40,14 @@ The Achievement Emotions Questionnaire (AEQ) is one of the most widely used inst
 The AEQ-S has been published in [Contemporary Educational Psychology](https://www.sciencedirect.com/science/article/abs/pii/S0361476X20301053). 
 
 Please see [this]({{< relref "/course/intro" >}})
+
+{{< spoiler text="Click to view the spoiler" >}}
+You found me!
+{{< /spoiler >}}
+
+The publication is [here]({{< relref "/publication/bieleke-gogol-goetz-2021-contemp-educ-psychol" >}})
+
+{{< cite page="/publication/bieleke-gogol-goetz-2021-contemp-educ-psychol" view="4" >}}
+
+{{< cta cta_text="Do something" cta_link="/" cta_new_tab="false" cta_alt_text="Alternative action" cta_alt_link="/" cta_alt_new_tab="false" >}}
+
