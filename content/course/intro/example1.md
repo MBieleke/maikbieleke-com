@@ -1,7 +1,13 @@
 ---
-title: Example Page 1
+title: Compute means
 date: 2019-05-05
-type: book
+type: docs
 ---
 
-Content...
+Here, we will learn a lot.
+
+```r
+library(tidyverse)
+mean(c(1, 2, 3, 4))
+for(i in 1:10){}
+```

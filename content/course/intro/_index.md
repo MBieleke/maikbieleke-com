@@ -1,6 +1,6 @@
 ---
 # Page title
-title: An Example Course
+title: Scoring the AEQ-S (Bieleke et al., 2021)
 
 # Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
 linktitle: Course
@@ -12,7 +12,7 @@ summary: Blah, blah, blah...
 date: 2018-09-09
 
 # Book page type (do not modify).
-type: book
+type: docs
 
 # Position of this page in the menu. Remove this option to sort alphabetically.
 weight: 1
