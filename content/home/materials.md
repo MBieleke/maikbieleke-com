@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Projects
-subtitle: ''
+title: Materials
+subtitle: 'Questionnaires'
 
 content:
   # Page type to display. E.g. project.
@@ -27,8 +27,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Achievement
-    tag: Achievement
+  - name: AEQ-S
+    tag: AEQ-S
+  - name: ITPS
+    tag: ITPS
   - name: Boredom
     tag: Boredom
 

@@ -1,8 +1,8 @@
 ---
 title: Achievement Emotions Questionnaire - Short (AEQ-S)
-summary: A short questionnaire for assessing achievement emotions.
+summary: The AEQ-S measures enjoyment, hope, pride, anger, anxiety, shame, hoplessness, and boredom in class-, learning-, and test-related academic settings. 
 tags:
-- Achievement
+- AEQ-S
 date: "2021-12-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
