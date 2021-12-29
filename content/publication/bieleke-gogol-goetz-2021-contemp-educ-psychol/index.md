@@ -5,14 +5,17 @@ title: 'The AEQ-S: A short version of the Achievement Emotions Questionnaire'
 subtitle: ''
 summary: ''
 authors:
-- Maik Bieleke
+- admin
 - Katarzyna Gogol
 - Thomas Goetz
 - Lia Daniels
 - Reinhard Pekrun
 tags:
-- achievement emotions;achievement emotions questionnaire (AEQ);assessment;control-value
-  theory;short scale
+- achievement emotions
+- achievement emotions questionnaire (AEQ)
+- assessment
+- control-value theory (CVT)
+- short scale
 categories: []
 date: '2021-01-01'
 lastmod: 2021-12-29T18:31:16+01:00
