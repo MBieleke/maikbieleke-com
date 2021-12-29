@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Maik Bieleke
+title: Dr. Maik Bieleke
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Senior Researcher in Psychology
+role: Senior Researcher Psychology
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,13 +14,14 @@ organizations:
   url: https://www.uni-konstanz.de/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include mental and physical effort, self-control and behavior change, and emotions in achievement settings.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Effort
+- Self-control
+- Behavior change
+- Achievement emotions
 
 # Education to show in About widget
 education:
@@ -67,8 +68,6 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm a senior researcher at the University of Konstanz [Sport Psychology Lab](https://www.sportwissenschaft.uni-konstanz.de/schueler/). My research interests include mental and physical effort, self-control and behavior change, and emotions in achievement settings.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/# demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
