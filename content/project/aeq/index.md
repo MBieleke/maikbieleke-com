@@ -2,7 +2,7 @@
 title: Achievement Emotions Questionnaire - Short (AEQ-S)
 summary: A short questionnaire for assessing achievement emotions.
 tags:
-- Achievement emotions
+- Achievement
 date: "2021-12-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
