@@ -2,7 +2,7 @@
 name = "Minimal"
 
 # Optional Google font URL
-google_fonts = "family=Source+Sans+Pro:wght@300"
+google_fonts = "family=Source+Sans+Pro"
 
 # Font families
 heading_font = "Source Sans Pro"
