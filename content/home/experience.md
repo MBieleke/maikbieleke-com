@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Activate this widget? true/false
-active: false
+active: true
 
 # Order that this section appears on the page.
 weight: 40
@@ -25,7 +25,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
+  - title: Project Manager
     company: GenCoin
     company_url: ''
     company_logo: org-gc
