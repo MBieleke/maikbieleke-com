@@ -31,3 +31,5 @@ slides: example
 ---
 
 The Achievement Emotions Questionnaire (AEQ) is one of the most widely used instruments for assessing achievement emotions. This new short version allows researchers to assess the same set of achievement emotions with considerably fewer items.
+
+The AEQ-S has been published in [Contemporary Educational Psychology](https://www.sciencedirect.com/science/article/abs/pii/S0361476X20301053). 

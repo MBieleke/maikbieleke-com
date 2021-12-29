@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'The benefit of no choice: goal-directed plans enhance perceptual processing'
+title: 'The benefit of no choice: Goal-directed plans enhance perceptual processing'
 subtitle: ''
 summary: ''
 authors:
@@ -10,13 +10,12 @@ authors:
 - Maik Bieleke
 - Peter M. Gollwitzer
 tags:
-- Adult;Auditory Perception/physiology;Choice Behavior/physiology;Color Perception/physiology;Female;Goals;Humans;Male;Pattern
-  Recognition
-- Visual/physiology;Psychomotor Performance/physiology;Young Adult
+- Implementation Intention;Psychological Refractory Period;Short Stimulus Onset Asynchrony;Stimulus
+  Onset Asynchrony;Task Type
 categories: []
 date: '2015-01-01'
-lastmod: 2021-12-29T09:10:13+01:00
-featured: true
+lastmod: 2021-12-29T18:31:25+01:00
+featured: false
 draft: false
 
 # Featured image
@@ -33,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-12-29T08:10:12.013496Z'
+publishDate: '2021-12-29T17:31:25.072949Z'
 publication_types:
 - '2'
 abstract: Choosing among different options is costly. Typically, response times are

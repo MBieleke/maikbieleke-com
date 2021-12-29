@@ -1,0 +1,52 @@
+---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
+title: Bursting balloons -- Comparison of risk propensity between extreme sports,
+  esports, and the general public
+subtitle: ''
+summary: ''
+authors:
+- Lucas Keller
+- Maik Bieleke
+- Wanja Wolff
+tags:
+- esports;extreme sports;risk taking
+categories: []
+date: -01-01
+lastmod: 2021-12-29T18:31:26+01:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-12-29T17:31:26.362493Z'
+publication_types:
+- '2'
+abstract: Arguably, extreme sports athletes exhibit a more significant risk appetite
+  than the general public. Are standard behavioral risk measures able to capture this?
+  To answer this question, we assessed self-reports of risk taking and measured the
+  risk-taking behavior of samples of snowboarders and climbers. Two groups of non-athletes,
+  university students and crowdworkers, and athletes of a sport that does not include
+  the potential of grave injury or death, esports athletes, serve as control conditions
+  and complement our study. Across these five different groups, 1313 participants
+  performed an online version of the Balloon Analogue Risk Task (BART) and gave self-reports
+  of general willingness to take risks and sports-specific risk taking. Extreme sports
+  athletes exhibited greater risk taking in the BART than non-athletes and esports
+  athletes. Furthermore, BART-performance predicted sports-specific risk taking and
+  its affective consequences. Our results speak to the BART's ecological validity
+  and the unique role of physical consequences on risk-taking behavior.
+publication: '*Current Psychology*'
+doi: 10.1007/s12144-021-02616-4
+---
