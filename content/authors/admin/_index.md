@@ -17,24 +17,24 @@ organizations:
 bio: My research interests include mental and physical effort, self-control and behavior change, and emotions in achievement settings.
 
 # Interests to show in About widget
-interests:
-- Effort
-- Self-control
-- Behavior change
-- Achievement emotions
+# interests:
+# - Effort
+# - Self-control
+# - Behavior change
+# - Achievement emotions
 
 # Education to show in About widget
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+# education:
+#   courses:
+#   - course: PhD in Artificial Intelligence
+#     institution: Stanford University
+#     year: 2012
+#   - course: MEng in Artificial Intelligence
+#     institution: Massachusetts Institute of Technology
+#     year: 2009
+#   - course: BSc in Artificial Intelligence
+#     institution: Massachusetts Institute of Technology
+#     year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -66,8 +66,10 @@ email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
+
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/# demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 ---
 
 I'm a senior researcher at the University of Konstanz [Sport Psychology Lab](https://www.sportwissenschaft.uni-konstanz.de/schueler/). My research interests include mental and physical effort, self-control and behavior change, and emotions in achievement settings.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/# demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
