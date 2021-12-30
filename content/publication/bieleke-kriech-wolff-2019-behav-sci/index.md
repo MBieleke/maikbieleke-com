@@ -13,7 +13,7 @@ tags:
 - coach instructions
 - goal setting
 - if-then planning
-- implementation intention
+- implementation intentions
 - self-control
 - volleyball serve
 categories: []

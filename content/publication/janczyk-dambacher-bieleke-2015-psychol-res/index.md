@@ -10,7 +10,7 @@ authors:
 - admin
 - Peter M. Gollwitzer
 tags:
-- implementation intention
+- implementation intentions
 - psychological refractory period
 - short stimulus onset asynchrony
 - stimulus onset asynchrony
