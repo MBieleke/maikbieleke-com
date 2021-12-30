@@ -49,7 +49,13 @@ social:
   link: https://twitter.com/MBieleke
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.de/citations?user=EbGUz_gAAAAJ
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Maik-Bieleke
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-2586-1416
 - icon: linkedin
   icon_pack: fab
   link: linkedin.com/in/maik-bieleke/

@@ -39,7 +39,7 @@ The Achievement Emotions Questionnaire (AEQ) is one of the most widely used inst
 
 The AEQ-S has been published in [Contemporary Educational Psychology](https://www.sciencedirect.com/science/article/abs/pii/S0361476X20301053). 
 
-Please see [this]({{< relref "/course/intro" >}})
+Please see [this]({{< relref "/course" >}})
 
 {{< spoiler text="Click to view the spoiler" >}}
 You found me!
