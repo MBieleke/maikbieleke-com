@@ -10,8 +10,12 @@ authors:
 - Claudio Kriech
 - Wanja Wolff
 tags:
-- coach instructions;goal setting;If-then planning;Implementation Intention;self-control;volleyball
-  serve
+- coach instructions
+- goal setting
+- if-then planning
+- implementation intention
+- self-control
+- volleyball serve
 categories: []
 date: '2019-01-01'
 lastmod: 2021-12-29T18:31:18+01:00

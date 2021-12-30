@@ -9,7 +9,11 @@ authors:
 - Leon Barton
 - Wanja Wolff
 tags:
-- boredom;ego-depletion;Goals;Motivation;self-control
+- boredom
+- ego-depletion
+- Goals
+- Motivation
+- self-control
 categories: []
 date: '2021-01-01'
 lastmod: 2021-12-29T18:31:14+01:00

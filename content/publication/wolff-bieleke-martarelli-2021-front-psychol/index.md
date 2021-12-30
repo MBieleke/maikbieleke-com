@@ -10,7 +10,13 @@ authors:
 - Corinna S. Martarelli
 - James Danckert
 tags:
-- boredom;decision making;effort;exercise;reward-based choice;self-control;sports
+- boredom
+- decision making
+- effort
+- exercise
+- reward-based choice
+- self-control
+- sports
 categories: []
 date: '2021-01-01'
 lastmod: 2021-12-29T18:31:33+01:00

@@ -9,7 +9,13 @@ authors:
 - Maik Bieleke
 - Peter M. Gollwitzer
 tags:
-- Goals;Implementation intentions;mindsets;Motivation;plans;Self-regulation;volition
+- goals
+- implementation intentions
+- mindsets
+- motivation
+- plans
+- self-regulation
+- volition
 categories: []
 date: '2019-01-01'
 lastmod: 2021-12-29T18:31:26+01:00

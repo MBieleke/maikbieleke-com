@@ -11,8 +11,13 @@ authors:
 - Julia Schüler
 - Wanja Wolff
 tags:
-- Borg scales;Implementation intentions;implicit theories;limits of athletic performance;muscular
-  endurance performance;psychobiological model;Self-regulation
+- bBorg scales
+- implementation intentions
+- implicit theories
+- limits of athletic performance
+- muscular endurance performance
+- psychobiological model
+- self-regulation
 categories: []
 date: '2020-01-01'
 lastmod: 2021-12-29T18:31:25+01:00

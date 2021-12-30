@@ -11,7 +11,13 @@ authors:
 - Johanna Stähler
 - Julia Schüler
 tags:
-- bayesian statistics;boredom;exercise;health;If-then planning;latent profile analysis;self-control
+- bayesian statistics
+- boredom
+- exercise
+- health
+- if-then planning
+- latent profile analysis
+- self-control
 categories: []
 date: '2020-01-01'
 lastmod: 2021-12-29T18:31:34+01:00

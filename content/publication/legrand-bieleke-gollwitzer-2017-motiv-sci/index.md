@@ -11,7 +11,11 @@ authors:
 - Peter M. Gollwitzer
 - Astrid Mignon
 tags:
-- cost and punishment;flexibility;goal striving;Implementation intentions;tenacity
+- cost and punishment
+- flexibility
+- goal striving
+- implementation intentions
+- tenacity
 categories: []
 date: '2017-01-01'
 lastmod: 2021-12-29T18:31:28+01:00

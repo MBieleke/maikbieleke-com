@@ -10,8 +10,11 @@ authors:
 - David Dohmen
 - Peter M. Gollwitzer
 tags:
-- intuitive and reflective decision modes;mental contrasting with implementation intentions
-  (MCII);mouselab;process tracing;social value orientation (SVO)
+- intuitive and reflective decision modes
+- mental contrasting with implementation intentions (MCII)
+- mouselab
+- process tracing
+- social value orientation (SVO)
 categories: []
 date: '2020-01-01'
 lastmod: 2021-12-29T18:31:15+01:00

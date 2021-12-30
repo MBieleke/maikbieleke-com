@@ -8,8 +8,13 @@ authors:
 - Maik Bieleke
 - Wanja Wolff
 tags:
-- Borg scales;endurance performance;Implementation intentions;mixed-effects models;psychobiological
-  model;ratings of perceived exertion (RPE);Self-regulation
+- borg scales
+- endurance performance
+- implementation intentions
+- mixed-effects models
+- psychobiological model
+- ratings of perceived exertion (RPE)
+- self-regulation
 categories: []
 date: '2017-01-01'
 lastmod: 2021-12-29T18:31:20+01:00

@@ -10,7 +10,9 @@ authors:
 - Maik Bieleke
 - Wanja Wolff
 tags:
-- esports;extreme sports;risk taking
+- esports
+- extreme sports
+- risk taking
 categories: []
 date: -01-01
 lastmod: 2021-12-29T18:31:26+01:00

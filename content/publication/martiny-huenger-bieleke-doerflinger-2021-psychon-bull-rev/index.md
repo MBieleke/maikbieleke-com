@@ -11,7 +11,10 @@ authors:
 - Matthew B. Stephensen
 - Peter M. Gollwitzer
 tags:
-- cognitive control and automaticity;decision making;deliberation;high order cognition
+- cognitive control and automaticity
+- decision making
+- deliberation
+- high order cognition
 categories: []
 date: '2021-01-01'
 lastmod: 2021-12-29T18:31:30+01:00

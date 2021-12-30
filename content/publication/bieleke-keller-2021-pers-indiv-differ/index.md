@@ -9,7 +9,11 @@ authors:
 - Maik Bieleke
 - Lucas Keller
 tags:
-- If-then planning;Implementation intentions;Individual differences;Motivation;Self-regulation
+- if-then planning
+- implementation intentions
+- individual differences
+- motivation
+- self-regulation
 categories: []
 date: '2021-01-01'
 lastmod: 2021-12-29T18:31:17+01:00

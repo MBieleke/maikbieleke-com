@@ -10,8 +10,11 @@ authors:
 - Maik Bieleke
 - Peter M. Gollwitzer
 tags:
-- Implementation Intention;Psychological Refractory Period;Short Stimulus Onset Asynchrony;Stimulus
-  Onset Asynchrony;Task Type
+- implementation intention
+- psychological refractory period
+- short stimulus onset asynchrony
+- stimulus onset asynchrony
+- task type
 categories: []
 date: '2015-01-01'
 lastmod: 2021-12-29T18:31:25+01:00

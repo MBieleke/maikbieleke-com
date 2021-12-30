@@ -7,27 +7,21 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: "Pubs"
-    url: "landing/"
-    weight: 12
   - name: Publications
-    url: '#featured'
+    url: 'publications'
     weight: 20
-  - name: Posts
-    url: '#posts'
+  - name: "Questionnaires"
+    url: "questionnaires"
     weight: 30
-  - name: Materials
-    url: '#materials'
-    weight: 40
   - name: Talks
     url: '#talks'
-    weight: 50
+    weight: 40
+  - name: Education
+    url: 'education'
+    weight: 40
   - name: Contact
     url: '#contact'
-    weight: 60
-  - name: Test
-    url: 'course/intro'
-    weight: 70
+    weight: 50
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.

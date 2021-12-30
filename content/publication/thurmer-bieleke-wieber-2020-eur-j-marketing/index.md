@@ -10,8 +10,12 @@ authors:
 - Frank Wieber
 - Peter M. Gollwitzer
 tags:
-- automaticity;Implementation intentions;impulse buying;peer influence;reflective-impulsive
-  model;young consumers
+- automaticity
+- implementation intentions
+- impulse buying
+- peer influence
+- reflective-impulsive model
+- young consumers
 categories: []
 date: '2020-01-01'
 lastmod: 2021-12-29T18:31:31+01:00

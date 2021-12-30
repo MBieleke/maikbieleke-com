@@ -11,8 +11,11 @@ authors:
 - Gabriele Oettingen
 - Urs Fischbacher
 tags:
-- dual-process models;fairness;intuition versus reflection;social value orientation
-  (SVO);ultimatum game
+- dual-process models
+- fairness
+- intuition versus reflection
+- social value orientation (SVO)
+- ultimatum game
 categories: []
 date: '2017-01-01'
 lastmod: 2021-12-29T18:31:17+01:00

@@ -10,8 +10,12 @@ authors:
 - Chris Englert
 - Peter M. Gollwitzer
 tags:
-- If-then planning;Implementation intentions;psychological interventions;scoping review;self-control;sports
-  performance
+- if-then planning
+- implementation intentions
+- psychological interventions
+- scoping review
+- self-control
+- sports performance
 categories: []
 date: '2021-01-01'
 lastmod: 2021-12-29T18:31:22+01:00

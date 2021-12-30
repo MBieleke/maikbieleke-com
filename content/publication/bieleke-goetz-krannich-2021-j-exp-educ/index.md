@@ -12,8 +12,12 @@ authors:
 - Anna-Lena Roos
 - Takuya Yanagida
 tags:
-- achievement emotions;cognitive appraisals;control-value theory;perceived challenge;task
-  difficulty;task order
+- achievement emotions
+- cognitive appraisals
+- control-value theory
+- perceived challenge
+- task difficulty
+- task order
 categories: []
 date: '2021-01-01'
 lastmod: 2021-12-29T18:31:16+01:00

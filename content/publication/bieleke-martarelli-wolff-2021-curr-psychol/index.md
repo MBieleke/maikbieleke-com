@@ -11,8 +11,12 @@ authors:
 - Corinna S. Martarelli
 - Wanja Wolff
 tags:
-- boredom;COVID-19;if-then planning (implementation intentions);self-control;social
-  distancing
+- boredom
+- covid-19
+- if-then planning
+- implementation intentions
+- self-control
+- social distancing
 categories: []
 date: '2021-01-01'
 lastmod: 2021-12-29T18:31:20+01:00

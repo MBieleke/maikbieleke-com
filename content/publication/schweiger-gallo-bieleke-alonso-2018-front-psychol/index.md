@@ -12,7 +12,11 @@ authors:
 - Peter M. Gollwitzer
 - Gabriele Oettingen
 tags:
-- anger;emotion regulation;mental contrasting with implementation intentions;reappraisal;Self-regulation
+- anger
+- emotion regulation
+- mental contrasting with implementation intentions (MCII)
+- reappraisal
+- self-regulation
 categories: []
 date: '2018-01-01'
 lastmod: 2021-12-29T18:31:31+01:00

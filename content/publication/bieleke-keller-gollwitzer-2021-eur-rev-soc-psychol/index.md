@@ -9,7 +9,11 @@ authors:
 - Lucas Keller
 - Peter M. Gollwitzer
 tags:
-- behavior change;Goals;Implementation intentions;Motivation;planning
+- behavior change
+- goals
+- implementation intentions
+- motivation
+- planning
 categories: []
 date: '2021-01-01'
 lastmod: 2021-12-29T18:31:18+01:00

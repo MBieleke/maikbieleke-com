@@ -10,8 +10,11 @@ authors:
 - Astrid Mignon
 - Peter M. Gollwitzer
 tags:
-- Achievement;Adult;Cognition/physiology;Female;Goals;Humans;Intention;Male;Neuropsychological
-  Tests;Psychomotor Performance/physiology;Young Adult
+- implementation intentions
+- self-regulation
+- goal attainment
+- generalization
+- cognitive resources
 categories: []
 date: '2018-01-01'
 lastmod: 2021-12-29T18:31:19+01:00

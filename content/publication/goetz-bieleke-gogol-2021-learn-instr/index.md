@@ -14,11 +14,11 @@ authors:
 - Anastasiya A. Lipnevich
 - Reinhard Pekrun
 tags:
-- Student-teacher relationship
-- Interpersonal closeness
-- Emotions
-- Achievement
-- Longitudinal study
+- student-teacher relationship
+- interpersonal closeness
+- emotions
+- achievement
+- longitudinal study
 categories: []
 date: '2021-01-01'
 lastmod: 2021-12-29T18:31:23+01:00

@@ -11,7 +11,11 @@ authors:
 - Julia Schüler
 - Maik Bieleke
 tags:
-- boredom;COVID-19;public health;self-control;social-distancing
+- boredom
+- covid-19
+- public health
+- self-control
+- social-distancing
 categories: []
 date: '2020-01-01'
 lastmod: 2021-12-29T18:31:35+01:00

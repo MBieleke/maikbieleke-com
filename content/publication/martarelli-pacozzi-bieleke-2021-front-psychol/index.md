@@ -10,7 +10,11 @@ authors:
 - Maik Bieleke
 - Wanja Wolff
 tags:
-- boredom;COVID-19;homeschooling;self-control;Self-regulation
+- boredom
+- covid-19
+- homeschooling
+- self-control
+- self-regulation
 categories: []
 date: '2021-01-01'
 lastmod: 2021-12-29T18:31:28+01:00
