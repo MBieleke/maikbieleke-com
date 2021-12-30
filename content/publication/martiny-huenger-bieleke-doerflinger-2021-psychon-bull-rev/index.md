@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Torsten Martiny-Huenger
-- Maik Bieleke
+- admin
 - Johannes Doerflinger
 - Matthew B. Stephensen
 - Peter M. Gollwitzer

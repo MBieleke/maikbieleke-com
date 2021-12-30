@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Inge Schweiger Gallo
-- Maik Bieleke
+- admin
 - Miguel A. Alonso
 - Peter M. Gollwitzer
 - Gabriele Oettingen

@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Anna Hirsch
-- Maik Bieleke
+- admin
 - Raphael Bertschinger
 - Julia Schüler
 - Wanja Wolff

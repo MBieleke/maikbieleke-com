@@ -5,7 +5,7 @@ title: 'More than planned: Implementation intention effects in non-planned situa
 subtitle: ''
 summary: ''
 authors:
-- Maik Bieleke
+- admin
 - Eve Legrand
 - Astrid Mignon
 - Peter M. Gollwitzer

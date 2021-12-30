@@ -9,7 +9,7 @@ authors:
 - Wanja Wolff
 - Corinna S. Martarelli
 - Julia Schüler
-- Maik Bieleke
+- admin
 tags:
 - boredom
 - covid-19

@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Lucas Keller
-- Maik Bieleke
+- admin
 - Peter M. Gollwitzer
 tags:
 - goals

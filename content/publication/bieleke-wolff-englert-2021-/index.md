@@ -5,7 +5,7 @@ title: 'If-then planning in sports: A scoping review'
 subtitle: ''
 summary: ''
 authors:
-- Maik Bieleke
+- admin
 - Wanja Wolff
 - Chris Englert
 - Peter M. Gollwitzer

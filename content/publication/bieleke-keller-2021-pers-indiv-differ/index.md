@@ -6,7 +6,7 @@ title: 'Individual differences in if-then planning: Insights from the developmen
 subtitle: ''
 summary: ''
 authors:
-- Maik Bieleke
+- admin
 - Lucas Keller
 tags:
 - if-then planning

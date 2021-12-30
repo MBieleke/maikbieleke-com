@@ -5,7 +5,7 @@ title: That escalated quickly--Planning to ignore RPE can backfire
 subtitle: ''
 summary: ''
 authors:
-- Maik Bieleke
+- admin
 - Wanja Wolff
 tags:
 - borg scales

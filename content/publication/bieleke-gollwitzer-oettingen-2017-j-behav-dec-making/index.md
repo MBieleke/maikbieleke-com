@@ -6,7 +6,7 @@ title: Social value orientation moderates the effects of intuition versus reflec
 subtitle: ''
 summary: ''
 authors:
-- Maik Bieleke
+- admin
 - Peter M. Gollwitzer
 - Gabriele Oettingen
 - Urs Fischbacher

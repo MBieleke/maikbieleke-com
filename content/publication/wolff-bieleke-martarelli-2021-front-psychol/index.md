@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Wanja Wolff
-- Maik Bieleke
+- admin
 - Corinna S. Martarelli
 - James Danckert
 tags:

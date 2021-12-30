@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Corinna S. Martarelli
 - Simona Pacozzi
-- Maik Bieleke
+- admin
 - Wanja Wolff
 tags:
 - boredom

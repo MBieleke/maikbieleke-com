@@ -6,7 +6,7 @@ title: Served well? A pilot field study on the effects of conveying self-control
 subtitle: ''
 summary: ''
 authors:
-- Maik Bieleke
+- admin
 - Claudio Kriech
 - Wanja Wolff
 tags:

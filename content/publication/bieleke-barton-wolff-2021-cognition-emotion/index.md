@@ -5,19 +5,19 @@ title: Trajectories of boredom in self-control demanding tasks
 subtitle: ''
 summary: ''
 authors:
-- Maik Bieleke
+- admin
 - Leon Barton
 - Wanja Wolff
 tags:
 - boredom
 - ego-depletion
-- Goals
-- Motivation
+- goals
+- motivation
 - self-control
 categories: []
 date: '2021-01-01'
 lastmod: 2021-12-29T18:31:14+01:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
@@ -25,8 +25,8 @@ draft: false
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ''
-  focal_point: ''
-  preview_only: false
+  focal_point: 'Smart'
+  preview_only: true
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

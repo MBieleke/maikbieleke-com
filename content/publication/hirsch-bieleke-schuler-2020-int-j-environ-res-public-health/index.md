@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Anna Hirsch
-- Maik Bieleke
+- admin
 - Julia Schüler
 - Wanja Wolff
 tags:

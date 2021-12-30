@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Eve Legrand
-- Maik Bieleke
+- admin
 - Peter M. Gollwitzer
 - Astrid Mignon
 tags:

@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Torsten Martiny-Huenger
-- Maik Bieleke
+- admin
 - Gabriele Oettingen
 - Peter M. Gollwitzer
 tags: []

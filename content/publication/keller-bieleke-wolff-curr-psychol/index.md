@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Lucas Keller
-- Maik Bieleke
+- admin
 - Wanja Wolff
 tags:
 - esports

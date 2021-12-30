@@ -6,7 +6,7 @@ title: Effects of social value orientation (SVO) and decision mode on controlled
 subtitle: ''
 summary: ''
 authors:
-- Maik Bieleke
+- admin
 - David Dohmen
 - Peter M. Gollwitzer
 tags:

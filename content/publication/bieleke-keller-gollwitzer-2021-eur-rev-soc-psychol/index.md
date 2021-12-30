@@ -5,7 +5,7 @@ title: If-then planning
 subtitle: ''
 summary: ''
 authors:
-- Maik Bieleke
+- admin
 - Lucas Keller
 - Peter M. Gollwitzer
 tags:

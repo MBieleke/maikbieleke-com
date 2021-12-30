@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Thomas Goetz
-- Maik Bieleke
+- admin
 - Katarzyna Gogol
 - Jan van Tartwijk
 - Tim Mainhard

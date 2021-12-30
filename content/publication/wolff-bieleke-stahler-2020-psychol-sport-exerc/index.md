@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Wanja Wolff
-- Maik Bieleke
+- admin
 - Johanna Stähler
 - Julia Schüler
 tags:

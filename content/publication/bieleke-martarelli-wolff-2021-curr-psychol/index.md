@@ -7,7 +7,7 @@ title: 'If-then planning, self-control, and boredom as predictors of adherence t
 subtitle: ''
 summary: ''
 authors:
-- Maik Bieleke
+- admin
 - Corinna S. Martarelli
 - Wanja Wolff
 tags:

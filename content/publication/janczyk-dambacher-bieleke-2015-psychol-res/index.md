@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Markus Janczyk
 - Michael Dambacher
-- Maik Bieleke
+- admin
 - Peter M. Gollwitzer
 tags:
 - implementation intention

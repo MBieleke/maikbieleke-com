@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Wanja Wolff
-- Maik Bieleke
+- admin
 - Anna Hirsch
 - Christian Wienbruch
 - Peter M. Gollwitzer

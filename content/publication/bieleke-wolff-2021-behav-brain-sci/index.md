@@ -6,7 +6,7 @@ title: "It's not a bug, it's boredom: Effortful willpower balances exploitation 
 subtitle: ''
 summary: ''
 authors:
-- Maik Bieleke
+- admin
 - Wanja Wolff
 tags: []
 categories: []

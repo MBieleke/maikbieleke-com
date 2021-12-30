@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - J. Lukas Thürmer
-- Maik Bieleke
+- admin
 - Frank Wieber
 - Peter M. Gollwitzer
 tags:

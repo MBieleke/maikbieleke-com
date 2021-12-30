@@ -5,7 +5,7 @@ title: 'Editorial: The self-regulation of human performance'
 subtitle: ''
 summary: ''
 authors:
-- Maik Bieleke
+- admin
 - Wanja Wolff
 tags: []
 categories: []

@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Wanja Wolff
 - Anna Hirsch
-- Maik Bieleke
+- admin
 - Amitai Shenhav
 tags: []
 categories: []

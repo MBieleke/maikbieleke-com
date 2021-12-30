@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Peter M. Gollwitzer
-- Maik Bieleke
+- admin
 - Paschal Sheeran
 tags: []
 categories: []
