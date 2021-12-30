@@ -1,6 +1,6 @@
 ---
 # Page title
-title: An Example Course
+title: Achievement Emotions Questionnaire - Short (AEQ-S)
 
 # Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
 linktitle: Course

@@ -1,10 +1,12 @@
 ---
-title: Compute means
-date: 2019-05-05
+title: Listing of scales and instructions
+date: 2021-12-01
 type: docs
 ---
 
 Here, we will learn a lot.
+
+{{< table path="scales.csv" header="true" caption="Table 1: My results" >}}
 
 ```r
 library(tidyverse)
