@@ -23,7 +23,7 @@ twitter: ''
 email: maik.bieleke@uni-konstanz.de
 phone: ++49-0-7531 88 3166
 address:
-  street: Universitätsstraße 10
+  street: Universitätsstraße 10, Box 30
   city: Konstanz
   # region: CA
   postcode: '78464'
@@ -33,14 +33,14 @@ address:
   # latitude: '37.4275'
   # longitude: '-122.1697'
 # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
+# office_hours:
+#   - 'Monday 10:00 to 13:00'
+#   - 'Wednesday 09:00 to 10:00'
 # appointment_url: 'https://calendly.com'
 contact_links:
   - icon: twitter
     icon_pack: fab
-    name: DM Me
+    name: Follow me on twitter
     link: 'https://twitter.com/MBieleke'
   # - icon: skype
   #   icon_pack: fab
@@ -71,7 +71,7 @@ main_menu:
 
 date_format: 'Jan 2, 2006'
 time_format: '3:04 PM'
-address_format: en-us
+address_format: de
 
 # Site features
 

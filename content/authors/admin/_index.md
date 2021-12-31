@@ -14,7 +14,7 @@ organizations:
   url: https://www.uni-konstanz.de/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include mental and physical effort, self-control and behavior change, and emotions in achievement settings.
+bio: My research interests include mental and physical effort, self-control and behavior change, and emotions related to achievement.
 
 # Interests to show in About widget
 # interests:
@@ -77,5 +77,7 @@ highlight_name: true
 ---
 
 I'm a senior researcher at the University of Konstanz [Sport Psychology Lab](https://www.sportwissenschaft.uni-konstanz.de/schueler/). My research interests include mental and physical effort, self-control and behavior change, and emotions in achievement settings.
+
+Currently, I focus on the psychological and physiological processes associated with physical activity and sports behavior. 
 
 
