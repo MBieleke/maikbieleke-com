@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Effects of social value orientation (SVO) and decision mode on controlled information
-  acquisition---A Mouselab perspective
+  acquisition - A Mouselab perspective
 subtitle: ''
 summary: ''
 authors:
@@ -20,6 +20,20 @@ date: '2020-01-01'
 lastmod: 2021-12-29T18:31:15+01:00
 featured: false
 draft: false
+
+links:
+- name: "Publisher"
+  url: "https://www.sciencedirect.com/science/article/abs/pii/S0022103119300745"
+  icon_pack: ai
+  icon: closed-access
+- name: "PDF (PsyArxiv)"
+  url: "https://psyarxiv.com/fmtdu/download"
+  icon_pack: fas
+  icon: file-pdf
+- name: "Data & Materials"
+  url: "https://osf.io/qa8wr/"
+  icon_pack: ai
+  icon: osf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -61,5 +75,5 @@ abstract: 'Insights into the processes underlying observed decisions are crucial
   acquisition. Finally, our results illustrate that Mouselab is a simple-to-use and
   versatile tool for tracing cognitive processes underlying social psychological phenomena.'
 publication: '*Journal of Experimental Social Psychology*'
-doi: 10.1016/j.jesp.2019.103896
+# doi: 10.1016/j.jesp.2019.103896
 ---
