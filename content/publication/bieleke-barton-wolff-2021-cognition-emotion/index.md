@@ -22,14 +22,18 @@ draft: false
 links:
 
 links:
-- name: "PDF (Paywall)"
+- name: "Publisher"
   url: "https://tandfonline.com/doi/abs/10.1080/02699931.2021.1901656"
-  icon_pack: fas
-  icon: external-link-alt
-- name: "PDF (Open Access)"
+  icon_pack: ai
+  icon: closed-access
+- name: "Open Access"
   url: "https://psyarxiv.com/ekqrv/"
   icon_pack: ai
   icon: open-access
+- name: "PDF"
+  url: "/uploads/2021_Bieleke-etal_ShortAEQ.pdf"
+  icon_pack: fas
+  icon: file-pdf
 - name: "Open Data"
   url: "https://osf.io/m4fgp/"
   icon_pack: ai
