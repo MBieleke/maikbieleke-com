@@ -19,6 +19,20 @@ lastmod: 2021-12-29T18:31:26+01:00
 featured: false
 draft: false
 
+links:
+- name: "Publisher"
+  url: "https://link.springer.com/article/10.1007/s12144-021-02616-4"
+  icon_pack: ai
+  icon: open-access
+- name: "PDF"
+  url: "https://link.springer.com/content/pdf/10.1007/s12144-021-02616-4.pdf"
+  icon_pack: fas
+  icon: file-pdf
+- name: "Data & Materials"
+  url: "https://researchbox.org/202"
+  icon_pack: ai
+  icon: osf
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
@@ -50,5 +64,5 @@ abstract: Arguably, extreme sports athletes exhibit a more significant risk appe
   its affective consequences. Our results speak to the BART's ecological validity
   and the unique role of physical consequences on risk-taking behavior.
 publication: '*Current Psychology*'
-doi: 10.1007/s12144-021-02616-4
+# doi: 10.1007/s12144-021-02616-4
 ---

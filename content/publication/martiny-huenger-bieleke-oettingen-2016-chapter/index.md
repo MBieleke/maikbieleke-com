@@ -17,6 +17,12 @@ lastmod: 2021-12-29T18:31:30+01:00
 featured: false
 draft: false
 
+links:
+- name: "Publisher"
+  url: "https://www.taylorfrancis.com/chapters/edit/10.4324/9781315523095-12/thought-automatic-action-strategic-spontaneous-action-control-planning-torsten-martiny-huenger-maik-bieleke-gabriele-oettingen-peter-gollwitzer"
+  icon_pack: ai
+  icon: closed-access
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.

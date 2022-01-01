@@ -15,7 +15,7 @@ tags:
 - motivation
 - self-regulation
 categories: []
-date: '2021-01-01'
+date: '2020-11-19'
 lastmod: 2021-12-29T18:31:17+01:00
 featured: false
 draft: false

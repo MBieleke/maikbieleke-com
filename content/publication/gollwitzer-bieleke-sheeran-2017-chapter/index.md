@@ -15,6 +15,12 @@ lastmod: 2021-12-29T18:31:23+01:00
 featured: false
 draft: false
 
+links:
+- name: "Publisher"
+  url: "https://www.taylorfrancis.com/chapters/edit/10.4324/9781315727448-35/enhancing-consumer-behaviour-implementation-intentions-peter-gollwitzer-maik-bieleke-paschal-sheeran"
+  icon_pack: ai
+  icon: closed-access
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.

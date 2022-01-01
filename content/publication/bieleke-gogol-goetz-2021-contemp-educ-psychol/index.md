@@ -17,7 +17,7 @@ tags:
 - control-value theory (CVT)
 - short scale
 categories: []
-date: '2021-01-01'
+date: '2020-12-31'
 lastmod: 2021-12-29T18:31:16+01:00
 featured: false
 draft: false

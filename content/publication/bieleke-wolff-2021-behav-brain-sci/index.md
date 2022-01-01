@@ -10,10 +10,20 @@ authors:
 - Wanja Wolff
 tags: []
 categories: []
-date: '2021-01-01'
+date: '2021-04-26'
 lastmod: 2021-12-29T18:31:21+01:00
 featured: false
 draft: false
+
+links:
+- name: "Publisher"
+  url: "https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/its-not-a-bug-its-boredom-effortful-willpower-balances-exploitation-and-exploration/3BD22469082A3BEE21B04C93707B3FF5"
+  icon_pack: ai
+  icon: closed-access
+- name: "PDF"
+  url: "https://psyarxiv.com/k6tjn/download"
+  icon_pack: fas
+  icon: file-pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -39,5 +49,5 @@ abstract: The continuous revaluation of rewards lies at the core of Ainslie's ac
   necessitates effortful willpower to balance it against exploitation, thereby rendering
   suppression a highly adaptive function of willpower.
 publication: '*Behavioral and Brain Sciences*'
-doi: 10.1017/S0140525X20001053
+# doi: 10.1017/S0140525X20001053
 ---

@@ -22,6 +22,16 @@ lastmod: 2021-12-29T18:31:31+01:00
 featured: false
 draft: false
 
+links:
+- name: "Publisher"
+  url: "https://www.emerald.com/insight/content/doi/10.1108/EJM-05-2018-0341/full/html"
+  icon_pack: ai
+  icon: open-access
+- name: "PDF"
+  url: "https://www.emerald.com/insight/content/doi/10.1108/EJM-05-2018-0341/full/pdf"
+  icon_pack: fas
+  icon: file-pdf
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
@@ -60,5 +70,5 @@ abstract: Purpose:~This study aims to take a dual-process perspective and argues
   research helps understand new precursors of impulse buying in understudied European
   samples of young consumers.
 publication: '*European Journal of Marketing*'
-doi: 10.1108/EJM-05-2018-0341
+# doi: 10.1108/EJM-05-2018-0341
 ---

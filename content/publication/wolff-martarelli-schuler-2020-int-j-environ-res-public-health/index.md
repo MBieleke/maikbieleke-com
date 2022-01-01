@@ -22,6 +22,20 @@ lastmod: 2021-12-29T18:31:35+01:00
 featured: false
 draft: false
 
+links:
+- name: "Publisher"
+  url: "https://www.mdpi.com/1660-4601/17/15/5420/htm"
+  icon_pack: ai
+  icon: closed-access
+- name: "PDF"
+  url: "https://www.mdpi.com/1660-4601/17/15/5420/pdf"
+  icon_pack: fas
+  icon: file-pdf
+- name: "Data & Materials"
+  url: "https://osf.io/7ky2q/"
+  icon_pack: ai
+  icon: osf
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
@@ -53,5 +67,5 @@ abstract: Social distancing during the coronavirus-disease-2019 (COVID-19) pande
   of difficulty on adherence. Our results are immediately relevant to improve the
   efficacy of social distancing guidelines in the COVID-19 response.
 publication: '*International Journal of Environmental Research and Public Health*'
-doi: 10.3390/ijerph17155420
+# doi: 10.3390/ijerph17155420
 ---

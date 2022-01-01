@@ -22,6 +22,12 @@ lastmod: 2021-12-29T18:31:26+01:00
 featured: false
 draft: false
 
+links:
+- name: "Publisher"
+  url: "https://link.springer.com/chapter/10.1007/978-3-030-13788-5_2"
+  icon_pack: ai
+  icon: closed-access
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
@@ -54,5 +60,5 @@ abstract: In this chapter, we introduce Mindset theory of Action Phases (MAP) an
   on the effects of implementation intentions in the domain of consumer psychology.
 publication: '*Social psychology in action: Evidence-based interventions from theory
   to practice*'
-doi: 10.1007/978-3-030-13788-5textunderscore 2
+# doi: 10.1007/978-3-030-13788-5textunderscore 2
 ---

@@ -19,6 +19,16 @@ lastmod: 2021-12-29T18:31:32+01:00
 featured: false
 draft: false
 
+links:
+- name: "Publisher"
+  url: "https://www.nature.com/articles/s41598-018-34009-2"
+  icon_pack: ai
+  icon: open-access
+- name: "PDF"
+  url: "https://www.nature.com/articles/s41598-018-34009-2.pdf"
+  icon_pack: fas
+  icon: file-pdf
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
@@ -56,5 +66,5 @@ abstract: Enduring physical strain is an important ability and prototypically re
   that self-regulatory processes during endurance performance might be reflected in
   LPFC activation.
 publication: '*Scientific Reports*'
-doi: 10.1038/s41598-018-34009-2
+# doi: 10.1038/s41598-018-34009-2
 ---

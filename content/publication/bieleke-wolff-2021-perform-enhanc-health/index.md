@@ -14,6 +14,12 @@ lastmod: 2021-12-29T18:31:21+01:00
 featured: false
 draft: false
 
+links:
+- name: "Publisher"
+  url: "https://www.sciencedirect.com/science/article/abs/pii/S2211266920300177"
+  icon_pack: ai
+  icon: closed-access
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
@@ -33,5 +39,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Performance Enhancement & Health*'
-doi: 10.1016/j.peh.2020.100173
+# doi: 10.1016/j.peh.2020.100173
 ---

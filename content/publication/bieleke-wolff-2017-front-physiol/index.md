@@ -16,10 +16,20 @@ tags:
 - ratings of perceived exertion (RPE)
 - self-regulation
 categories: []
-date: '2017-01-01'
+date: '2017-09-22'
 lastmod: 2021-12-29T18:31:20+01:00
 featured: false
 draft: false
+
+links:
+- name: "Publisher"
+  url: "https://www.frontiersin.org/articles/10.3389/fphys.2017.00736/full"
+  icon_pack: ai
+  icon: open-access
+- name: "PDF"
+  url: "https://www.frontiersin.org/articles/10.3389/fphys.2017.00736/pdf"
+  icon_pack: fas
+  icon: file-pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

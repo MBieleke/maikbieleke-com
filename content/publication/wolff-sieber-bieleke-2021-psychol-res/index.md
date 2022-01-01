@@ -16,6 +16,16 @@ lastmod: 2021-12-29T18:31:36+01:00
 featured: false
 draft: false
 
+links:
+- name: "Publisher"
+  url: "https://link.springer.com/article/10.1007/s00426-019-01230-1"
+  icon_pack: ai
+  icon: closed-access
+- name: "PDF"
+  url: "https://psyarxiv.com/ub4p5/download"
+  icon_pack: fas
+  icon: file-pdf
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
@@ -52,5 +62,5 @@ abstract: The strength model of self-control proposes that all acts of self-cont
   two self-control tasks, suggesting that the observed null findings were independent
   of task type.
 publication: '*Psychological Research*'
-doi: 10.1007/s00426-019-01230-1
+# doi: 10.1007/s00426-019-01230-1
 ---

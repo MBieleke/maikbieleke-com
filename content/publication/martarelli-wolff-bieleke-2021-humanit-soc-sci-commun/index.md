@@ -15,6 +15,20 @@ lastmod: 2021-12-29T18:31:29+01:00
 featured: false
 draft: false
 
+links:
+- name: "Publisher"
+  url: "https://www.nature.com/articles/s41599-021-00894-8"
+  icon_pack: ai
+  icon: open-access
+- name: "PDF"
+  url: "https://www.nature.com/articles/s41599-021-00894-8.pdf"
+  icon_pack: fas
+  icon: file-pdf
+- name: "Data & Materials"
+  url: "https://osf.io/4sje6/"
+  icon_pack: ai
+  icon: osf
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
@@ -56,7 +70,5 @@ abstract: 'In an effort to mitigate the impact of the COVID-19 pandemic, countri
   avoiding to travel and to gather can come at the cost of getting bored, an experience
   that was strongly linked to negative affect in our study.'
 publication: '*Humanities and Social Sciences Communications*'
-links:
-- name: URL
-  url: https://doi.org/10.1057/s41599-021-00894-8
+# doi: https://doi.org/10.1057/s41599-021-00894-8
 ---

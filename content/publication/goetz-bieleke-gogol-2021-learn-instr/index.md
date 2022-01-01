@@ -25,6 +25,12 @@ lastmod: 2021-12-29T18:31:23+01:00
 featured: false
 draft: false
 
+links:
+- name: "Publisher"
+  url: "https://www.sciencedirect.com/science/article/abs/pii/S0959475219303226"
+  icon_pack: ai
+  icon: closed-access
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
@@ -61,5 +67,5 @@ abstract: "Relationship quality and emotional experience are both important cons
   \ but differed in strength across emotions. Implications for future research and\
   \ educational practice are discussed."
 publication: '*Learning and Instruction*'
-doi: 10.1016/j.learninstruc.2020.101349
+# doi: 10.1016/j.learninstruc.2020.101349
 ---

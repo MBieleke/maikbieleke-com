@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: 'Struggles and strategies in anaerobic and aerobic cycling tests: A mixed-method
-  approach with a focus on tailored self-regulation strategies.'
+  approach with a focus on tailored self-regulation strategies'
 subtitle: ''
 summary: ''
 authors:
@@ -17,6 +17,20 @@ date: '2021-01-01'
 lastmod: 2021-12-29T18:31:24+01:00
 featured: false
 draft: false
+
+links:
+- name: "Publisher"
+  url: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0259088"
+  icon_pack: ai
+  icon: open-access
+- name: "PDF"
+  url: "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0259088&type=printable"
+  icon_pack: fas
+  icon: file-pdf
+- name: "Data & Materials"
+  url: "https://osf.io/mq6kt/"
+  icon_pack: ai
+  icon: osf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -59,5 +73,5 @@ abstract: "Endurance sports pose a plethora of mental demands that exercisers ha
   \ findings shed novel light into the mental processes accompanying endurance exercise\
   \ and the limits they pose on performance."
 publication: '*PLOS ONE*'
-doi: 10.1371/journal.pone.0259088
+# doi: 10.1371/journal.pone.0259088
 ---

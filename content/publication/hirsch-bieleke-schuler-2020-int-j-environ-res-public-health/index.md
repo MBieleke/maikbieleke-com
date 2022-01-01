@@ -24,6 +24,16 @@ lastmod: 2021-12-29T18:31:25+01:00
 featured: false
 draft: false
 
+links:
+- name: "Publisher"
+  url: "https://www.mdpi.com/1660-4601/17/7/2576/htm"
+  icon_pack: ai
+  icon: open-access
+- name: "PDF"
+  url: "https://www.mdpi.com/1660-4601/17/7/2576/pdf"
+  icon_pack: fas
+  icon: file-pdf
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
@@ -74,5 +84,5 @@ abstract: "Muscular strength has a strong positive impact on cardiometabolic hea
   \ beliefs. These findings indicate that the efficacy of psychological strategies\
   \ hinges on recreational athletes' beliefs regarding athletic performance."
 publication: '*International Journal of Environmental Research and Public Health*'
-doi: 10.3390/ijerph17072576
+# doi: 10.3390/ijerph17072576
 ---

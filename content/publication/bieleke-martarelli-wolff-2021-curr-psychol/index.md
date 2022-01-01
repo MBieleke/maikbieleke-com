@@ -18,10 +18,24 @@ tags:
 - self-control
 - social distancing
 categories: []
-date: '2021-01-01'
+date: '2021-08-14'
 lastmod: 2021-12-29T18:31:20+01:00
 featured: false
 draft: false
+
+links:
+- name: "Publisher"
+  url: "https://link.springer.com/article/10.1007/s12144-021-02106-7"
+  icon_pack: ai
+  icon: open-access
+- name: "PDF"
+  url: "https://link.springer.com/content/pdf/10.1007/s12144-021-02106-7.pdf"
+  icon_pack: fas
+  icon: file-pdf
+- name: "Data & Materials"
+  url: "https://osf.io/y2rdk"
+  icon_pack: ai
+  icon: osf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -63,5 +77,5 @@ abstract: 'In the wake of the Coronavirus Disease 2019 (COVID-19), social distan
   and boredom predicted adherence to social distancing guidelines. If-then planning
   interventions are promising but require further steps to ascertain compliance.'
 publication: '*Current Psychology*'
-doi: 10.1007/s12144-021-02106-7
+# doi: 10.1007/s12144-021-02106-7
 ---

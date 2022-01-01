@@ -16,7 +16,7 @@ tags:
 - generalization
 - cognitive resources
 categories: []
-date: '2018-01-01'
+date: '2017-06-13'
 lastmod: 2021-12-29T18:31:19+01:00
 featured: false
 draft: false
@@ -64,5 +64,5 @@ abstract: Forming implementation intentions (i.e., if-then planning) is a powerf
   as potential benefits and pitfalls emerging from these non-planned effects of forming
   implementation intentions.
 publication: '*Acta Psychologica*'
-# doi: 10.1016/j.actpsy.2017.06.003
+doi: 10.1016/j.actpsy.2017.06.003
 ---

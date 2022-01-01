@@ -17,7 +17,7 @@ tags:
 - self-control
 - volleyball serve
 categories: []
-date: '2019-01-01'
+date: '2019-09-02'
 lastmod: 2021-12-29T18:31:18+01:00
 featured: false
 draft: false

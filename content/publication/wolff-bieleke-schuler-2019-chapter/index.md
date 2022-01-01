@@ -15,6 +15,12 @@ lastmod: 2021-12-29T18:31:33+01:00
 featured: false
 draft: false
 
+links:
+- name: "Publisher"
+  url: "https://www.taylorfrancis.com/chapters/edit/10.4324/9781315167312-10/goal-striving-endurance-performance-wanja-wolff-maik-bieleke-julia-sch%C3%BCler"
+  icon_pack: ai
+  icon: closed-access
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
@@ -42,5 +48,5 @@ abstract: 'People often struggle with attaining their goals. One important reaso
   facilitative effects on goal attainment, and discuss their potential for enhancing
   endurance performance.'
 publication: '*Endurance performance in sport*'
-doi: 10.4324/9781315167312-10
+# doi: 10.4324/9781315167312-10
 ---

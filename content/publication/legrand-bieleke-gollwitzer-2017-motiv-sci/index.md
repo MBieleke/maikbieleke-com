@@ -22,6 +22,12 @@ lastmod: 2021-12-29T18:31:28+01:00
 featured: false
 draft: false
 
+links:
+- name: "Publisher"
+  url: "https://psycnet.apa.org/doiLanding?doi=10.1037%2Fmot0000050"
+  icon_pack: ai
+  icon: closed-access
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
@@ -56,5 +62,5 @@ abstract: 'Implementation intentions (if-then plans) help people to automaticall
   that implementation intentions render goal striving tenaciously flexible, facilitating
   goal-directed behaviors unless this is associated with excessive costs.'
 publication: '*Motivation Science*'
-doi: 10.1037/mot0000050
+# doi: 10.1037/mot0000050
 ---

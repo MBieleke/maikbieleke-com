@@ -16,6 +16,16 @@ lastmod: 2021-12-29T18:31:35+01:00
 featured: false
 draft: false
 
+links:
+- name: "Publisher"
+  url: "https://www.taylorfrancis.com/chapters/edit/10.4324/9781003176695-11/neuroscientific-approaches-self-regulatory-control-sports-wanja-wolff-anna-hirsch-maik-bieleke-amitai-shenhav"
+  icon_pack: ai
+  icon: closed-access
+- name: "PDF"
+  url: "https://psyarxiv.com/ysnvk/download"
+  icon_pack: fas
+  icon: file-pdf
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.

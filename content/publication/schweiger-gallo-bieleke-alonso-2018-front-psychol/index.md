@@ -23,6 +23,16 @@ lastmod: 2021-12-29T18:31:31+01:00
 featured: false
 draft: false
 
+links:
+- name: "Publisher"
+  url: "https://www.frontiersin.org/articles/10.3389/fpsyg.2018.01838/full"
+  icon_pack: ai
+  icon: open-access
+- name: "PDF"
+  url: "https://www.frontiersin.org/articles/10.3389/fpsyg.2018.01838/pdf"
+  icon_pack: fas
+  icon: file-pdf
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
@@ -55,5 +65,5 @@ abstract: As anger can lead to aggressive behavior aiming at intentionally hurti
   can be tailored to satisfy individual emotion regulation demands, such as dealing
   with experienced anger.
 publication: '*Frontiers in Psychology*'
-doi: 10.3389/fpsyg.2018.01838
+# doi: 10.3389/fpsyg.2018.01838
 ---

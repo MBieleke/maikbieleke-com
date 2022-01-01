@@ -21,6 +21,12 @@ lastmod: 2021-12-29T18:31:25+01:00
 featured: false
 draft: false
 
+links:
+- name: "Publisher"
+  url: "https://link.springer.com/article/10.1007/s00426-014-0549-5"
+  icon_pack: ai
+  icon: closed-access
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
@@ -52,5 +58,5 @@ abstract: Choosing among different options is costly. Typically, response times 
   light of alternative accounts and offer potential mechanisms underlying performance
   differences in forced- and free-choice tasks.
 publication: '*Psychological Research*'
-doi: 10.1007/s00426-014-0549-5
+# doi: 10.1007/s00426-014-0549-5
 ---

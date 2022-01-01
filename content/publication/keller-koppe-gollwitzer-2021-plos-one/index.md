@@ -17,6 +17,20 @@ lastmod: 2021-12-29T18:31:27+01:00
 featured: false
 draft: false
 
+links:
+- name: "Publisher"
+  url: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255207"
+  icon_pack: ai
+  icon: open-access
+- name: "PDF"
+  url: "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0255207&type=printable"
+  icon_pack: fas
+  icon: file-pdf
+- name: "Data & Materials"
+  url: "https://researchbox.org/201"
+  icon_pack: ai
+  icon: osf
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
@@ -54,5 +68,5 @@ abstract: The tendency to be overly confident in one's future and skills has lon
   or personality traits. This set of results shows the need for relevant theoretical
   and methodological refinements.
 publication: '*PLOS ONE*'
-doi: 10.1371/journal.pone.0255207
+# doi: 10.1371/journal.pone.0255207
 ---

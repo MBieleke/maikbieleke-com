@@ -21,6 +21,20 @@ lastmod: 2021-12-29T18:31:30+01:00
 featured: false
 draft: false
 
+links:
+- name: "Publisher"
+  url: "https://link.springer.com/article/10.3758/s13423-020-01795-8"
+  icon_pack: ai
+  icon: open-access
+- name: "PDF"
+  url: "https://link.springer.com/content/pdf/10.3758/s13423-020-01795-8.pdf"
+  icon_pack: fas
+  icon: file-pdf
+- name: "Data & Materials"
+  url: "https://osf.io/wp6eh/?view_only=2d701734309a433b9122a4b4443bc40a"
+  icon_pack: ai
+  icon: osf
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
@@ -59,5 +73,5 @@ abstract: Deliberation is commonly assumed to be a central characteristic of hum
   minimal consequence of deliberation as compared with certain higher cognitive functions
   in the interpretation of deliberation outcomes.
 publication: '*Psychonomic Bulletin & Review*'
-doi: 10.3758/s13423-020-01795-8
+# doi: 10.3758/s13423-020-01795-8
 ---

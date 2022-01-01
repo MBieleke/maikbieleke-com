@@ -16,7 +16,7 @@ tags:
 - process tracing
 - social value orientation (SVO)
 categories: []
-date: '2020-01-01'
+date: '2019-09-12'
 lastmod: 2021-12-29T18:31:15+01:00
 featured: false
 draft: false

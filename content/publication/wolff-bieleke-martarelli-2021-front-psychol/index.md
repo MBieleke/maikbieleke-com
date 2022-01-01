@@ -18,10 +18,20 @@ tags:
 - self-control
 - sports
 categories: []
-date: '2021-01-01'
+date: '2021-03-01'
 lastmod: 2021-12-29T18:31:33+01:00
 featured: false
 draft: false
+
+links:
+- name: "Publisher"
+  url: "https://www.frontiersin.org/articles/10.3389/fpsyg.2021.637839/full"
+  icon_pack: ai
+  icon: open-access
+- name: "PDF"
+  url: "https://www.frontiersin.org/articles/10.3389/fpsyg.2021.637839/pdf"
+  icon_pack: fas
+  icon: file-pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -54,5 +64,5 @@ abstract: Self-control is critical for successful participation and performance 
   several promising routes for integrating self-control and boredom research in the
   context of sports performance and exercise behavior.
 publication: '*Frontiers in Psychology*'
-doi: 10.3389/fpsyg.2021.637839
+# doi: 10.3389/fpsyg.2021.637839
 ---

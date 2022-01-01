@@ -22,6 +22,16 @@ lastmod: 2021-12-29T18:31:22+01:00
 featured: false
 draft: false
 
+links:
+- name: "Publisher"
+  url: "https://econtent.hogrefe.com/doi/10.1026/1612-5010/a000336"
+  icon_pack: ai
+  icon: closed-access
+- name: "PDF"
+  url: "https://psyarxiv.com/q73jw/download"
+  icon_pack: fas
+  icon: file-pdf
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
@@ -63,5 +73,5 @@ abstract: If-then planning (implementation intentions) describes a self-regulato
   pitfalls of using if-then plans to enhance sports-related performance, discuss promising
   routes for future research, and derive practical implications for athletes and coaches.
 publication: '*Zeitschrift für Sportpsychologie*'
-doi: 10.1026/1612-5010/a000336
+# doi: 10.1026/1612-5010/a000336
 ---

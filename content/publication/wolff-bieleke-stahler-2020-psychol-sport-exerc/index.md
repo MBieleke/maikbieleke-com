@@ -24,6 +24,20 @@ lastmod: 2021-12-29T18:31:34+01:00
 featured: false
 draft: false
 
+links:
+- name: "Publisher"
+  url: "https://www.sciencedirect.com/science/article/abs/pii/S1469029220308360"
+  icon_pack: ai
+  icon: closed-access
+- name: "PDF"
+  url: "https://osf.io/preprints/sportrxiv/tjw89/download"
+  icon_pack: fas
+  icon: file-pdf
+- name: "Data & Materials"
+  url: "https://osf.io/kuzgc/"
+  icon_pack: ai
+  icon: osf
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
@@ -65,5 +79,5 @@ abstract: "Physical exercise is an effective tool for improving public health, b
   \ in general are associated with less exercise activity. This is in line with recent\
   \ theorizing on boredoms' and self-controls' function in guiding goal-directed behavior."
 publication: '*Psychology of Sport and Exercise*'
-doi: 10.1016/j.psychsport.2020.101851
+# doi: 10.1016/j.psychsport.2020.101851
 ---
