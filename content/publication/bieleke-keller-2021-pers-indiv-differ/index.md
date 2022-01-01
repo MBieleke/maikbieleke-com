@@ -20,6 +20,16 @@ lastmod: 2021-12-29T18:31:17+01:00
 featured: false
 draft: false
 
+links:
+- name: "Publisher"
+  url: "https://www.sciencedirect.com/science/article/pii/S0191886920306917"
+  icon_pack: ai
+  icon: open-access
+- name: "PDF"
+  url: "https://www.sciencedirect.com/science/article/pii/S0191886920306917/pdfft?isDTMRedir=true&download=true"
+  icon_pack: fas
+  icon: file-pdf
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
@@ -52,5 +62,5 @@ abstract: Making if-then plans is a self-regulation strategy that facilitates go
   measured with the ITPS, and reveal systematic associations between these individual
   differences and goal attainment.
 publication: '*Personality and Individual Differences*'
-doi: 10.1016/j.paid.2020.110500
+# doi: 10.1016/j.paid.2020.110500
 ---

@@ -22,6 +22,16 @@ lastmod: 2021-12-29T18:31:16+01:00
 featured: false
 draft: false
 
+links:
+- name: "Publisher"
+  url: "https://www.sciencedirect.com/science/article/abs/pii/S0361476X20301053"
+  icon_pack: ai
+  icon: closed-access
+- name: "PDF"
+  url: "https://psyarxiv.com/bwgk6/download"
+  icon_pack: fas
+  icon: file-pdf
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
@@ -57,5 +67,5 @@ abstract: The Achievement Emotions Questionnaire (AEQ) is a well-established ins
   These findings suggest that the AEQ-S is a suitable substitute for the AEQ when
   administration time is limited.
 publication: '*Contemporary Educational Psychology*'
-doi: 10.1016/j.cedpsych.2020.101940
+# doi: 10.1016/j.cedpsych.2020.101940
 ---

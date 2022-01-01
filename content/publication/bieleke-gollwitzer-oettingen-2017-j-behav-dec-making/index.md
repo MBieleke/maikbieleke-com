@@ -22,6 +22,16 @@ lastmod: 2021-12-29T18:31:17+01:00
 featured: false
 draft: false
 
+links:
+- name: "Publisher"
+  url: "https://onlinelibrary.wiley.com/doi/abs/10.1002/bdm.1975"
+  icon_pack: ai
+  icon: closed-access
+- name: "PDF"
+  url: "https://psyarxiv.com/82rwb/download"
+  icon_pack: fas
+  icon: file-pdf
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
@@ -54,5 +64,5 @@ abstract: We investigated whether social value orientation (SVO) moderates the e
   that SVO moderates the effects of intuitive versus reflective modes of processing
   on responses to low ultimatum offers.
 publication: '*Journal of Behavioral Decision Making*'
-doi: 10.1002/bdm.1975
+# doi: 10.1002/bdm.1975
 ---

@@ -29,7 +29,7 @@ links:
   url: "https://www.tandfonline.com/doi/abs/10.1080/00220973.2021.1947764"
   icon_pack: ai
   icon: closed-access
-- name: "PDF (PsyArxiv)"
+- name: "PDF"
   url: "https://psyarxiv.com/bd6fm/download"
   icon_pack: fas
   icon: file-pdf
@@ -70,5 +70,5 @@ abstract: Tests in educational contexts often start with easy tasks, assuming th
   task orders, revealing their potential for causing adverse experiences at the end
   of the test (e.g., reflecting contrast effects).
 publication: '*Journal of Experimental Education*'
-doi: 10.1080/00220973.2021.1947764
+# doi: 10.1080/00220973.2021.1947764
 ---
