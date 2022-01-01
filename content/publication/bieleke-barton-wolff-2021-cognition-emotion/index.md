@@ -23,7 +23,7 @@ links:
 
 links:
 - name: "PDF (Paywall)"
-  url: "tandfonline.com/doi/abs/10.1080/02699931.2021.1901656"
+  url: "https://tandfonline.com/doi/abs/10.1080/02699931.2021.1901656"
   icon_pack: fas
   icon: external-link-alt
 - name: "PDF (Open Access)"
