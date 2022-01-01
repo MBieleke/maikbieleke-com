@@ -20,6 +20,16 @@ lastmod: 2021-12-29T18:31:18+01:00
 featured: false
 draft: false
 
+links:
+- name: "Publisher"
+  url: "https://www.tandfonline.com/doi/full/10.1080/10463283.2020.1808936"
+  icon_pack: ai
+  icon: open-access
+- name: "PDF"
+  url: "https://www.tandfonline.com/doi/pdf/10.1080/10463283.2020.1808936?download=true"
+  icon_pack: fas
+  icon: file-pdf
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
@@ -51,5 +61,5 @@ abstract: The self-regulation strategy of forming implementation intentions has 
   of research. As such, our review is an empathic call for addressing the many intriguing
   conceptual and empirical questions that still revolve around implementation intentions.
 publication: '*European Review of Social Psychology*'
-doi: 10.1080/10463283.2020.1808936
+# doi: 10.1080/10463283.2020.1808936
 ---

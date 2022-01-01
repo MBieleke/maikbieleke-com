@@ -29,6 +29,10 @@ links:
   url: "https://www.sciencedirect.com/science/article/pii/S0191886920306917/pdfft?isDTMRedir=true&download=true"
   icon_pack: fas
   icon: file-pdf
+- name: "Data & Materials"
+  url: "https://osf.io/w9635/"
+  icon_pack: ai
+  icon: osf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

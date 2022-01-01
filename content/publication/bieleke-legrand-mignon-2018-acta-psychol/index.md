@@ -21,6 +21,16 @@ lastmod: 2021-12-29T18:31:19+01:00
 featured: false
 draft: false
 
+links:
+- name: "Publisher"
+  url: "https://www.sciencedirect.com/science/article/abs/pii/S0001691816304048"
+  icon_pack: ai
+  icon: closed-access
+- name: "PDF"
+  url: "https://psyarxiv.com/cys5f/download"
+  icon_pack: fas
+  icon: file-pdf
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
@@ -54,5 +64,5 @@ abstract: Forming implementation intentions (i.e., if-then planning) is a powerf
   as potential benefits and pitfalls emerging from these non-planned effects of forming
   implementation intentions.
 publication: '*Acta Psychologica*'
-doi: 10.1016/j.actpsy.2017.06.003
+# doi: 10.1016/j.actpsy.2017.06.003
 ---

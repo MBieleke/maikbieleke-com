@@ -22,6 +22,16 @@ lastmod: 2021-12-29T18:31:18+01:00
 featured: false
 draft: false
 
+links:
+- name: "Publisher"
+  url: "https://www.mdpi.com/2076-328X/9/9/93/htm"
+  icon_pack: ai
+  icon: open-access
+- name: "PDF"
+  url: "https://www.mdpi.com/2076-328X/9/9/93/pdf"
+  icon_pack: fas
+  icon: file-pdf
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
@@ -58,5 +68,5 @@ abstract: Volleyball serves constitute an important example for a self-controlle
   study suggest that conveying either goals or plans as self-control strategies may
   involve initial adjustment costs followed by a subsequent recovery period.
 publication: '*Behavioral Sciences*'
-doi: 10.3390/bs9090093
+# doi: 10.3390/bs9090093
 ---
