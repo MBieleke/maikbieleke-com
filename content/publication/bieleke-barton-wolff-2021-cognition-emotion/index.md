@@ -19,6 +19,19 @@ date: '2021-01-01'
 lastmod: 2021-12-29T18:31:14+01:00
 featured: false
 draft: false
+links:
+- name: "Open Access"
+  url: "https://psyarxiv.com/ekqrv/"
+  icon_pack: ai
+  icon: open-access
+- name: "Open Data"
+  url: "https://osf.io/m4fgp/"
+  icon_pack: ai
+  icon: open-data
+- name: "Open Materials"
+  url: "https://osf.io/m4fgp/"
+  icon_pack: ai
+  icon: open-materials
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
