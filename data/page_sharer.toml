@@ -75,7 +75,7 @@
 
 [[buttons]]
   id = "tumblr"
-  url = "https://www.tumblr.com/widgets/share/tool?canonicalUrl={url}&title={title}"
+  url = "https://www.tumblr.com/widgets/share/tool?canonicalUrl={url}"
   title = "Tumblr"
   icon_pack = "fab"
   icon = "tumblr"
