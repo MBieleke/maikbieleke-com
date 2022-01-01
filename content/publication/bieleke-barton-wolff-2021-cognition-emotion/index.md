@@ -27,7 +27,7 @@ links:
   icon_pack: ai
   icon: closed-access
 - name: "PDF (PsyArxiv)"
-  url: "https://psyarxiv.com/ekqrv/"
+  url: "https://psyarxiv.com/ekqrv/download"
   icon_pack: fas
   icon: file-pdf
 - name: "Data & Materials"
