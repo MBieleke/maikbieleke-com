@@ -20,7 +20,13 @@ lastmod: 2021-12-29T18:31:14+01:00
 featured: false
 draft: false
 links:
-- name: "Open Access"
+
+links:
+- name: "PDF (Paywall)"
+  url: "tandfonline.com/doi/abs/10.1080/02699931.2021.1901656"
+  icon_pack: fas
+  icon: external-link-alt
+- name: "PDF (Open Access)"
   url: "https://psyarxiv.com/ekqrv/"
   icon_pack: ai
   icon: open-access
@@ -68,5 +74,5 @@ abstract: Self-control does not always work effectively. Whether this reflects t
   an intricate relationship between self-control and boredom that research on these
   two constructs should carefully disentangle.
 publication: '*Cognition and Emotion*'
-doi: 10.1080/02699931.2021.1901656
+# doi: 10.1080/02699931.2021.1901656
 ---
