@@ -27,7 +27,7 @@
 
 [[buttons]]
   id = "linkedin"
-  url = "https://www.linkedin.com/sharing/share-offsite/?url={url}&title={title}"
+  url = "https://www.linkedin.com/sharing/share-offsite/?url={url}"
   title = "LinkedIn"
   icon_pack = "fab"
   icon = "linkedin-in"
