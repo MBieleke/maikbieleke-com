@@ -11,6 +11,6 @@ view: 4
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: "Photo by Patrick Tomasso on Unsplash"
-  image: "publications.jpg"
+  caption: ""
+  image: ""
 ---
