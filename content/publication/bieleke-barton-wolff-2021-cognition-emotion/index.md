@@ -26,22 +26,14 @@ links:
   url: "https://tandfonline.com/doi/abs/10.1080/02699931.2021.1901656"
   icon_pack: ai
   icon: closed-access
-- name: "Open Access"
+- name: "PDF (PsyArxiv)"
   url: "https://psyarxiv.com/ekqrv/"
-  icon_pack: ai
-  icon: open-access
-- name: "PDF"
-  url: "/uploads/2021_Bieleke-etal_ShortAEQ.pdf"
   icon_pack: fas
   icon: file-pdf
-- name: "Open Data"
+- name: "Data & Materials"
   url: "https://osf.io/m4fgp/"
   icon_pack: ai
-  icon: open-data
-- name: "Open Materials"
-  url: "https://osf.io/m4fgp/"
-  icon_pack: ai
-  icon: open-materials
+  icon: osf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
