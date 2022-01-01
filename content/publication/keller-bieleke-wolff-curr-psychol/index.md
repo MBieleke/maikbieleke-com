@@ -51,4 +51,6 @@ abstract: Arguably, extreme sports athletes exhibit a more significant risk appe
   and the unique role of physical consequences on risk-taking behavior.
 publication: '*Current Psychology*'
 doi: 10.1007/s12144-021-02616-4
+
+url_osf: 'https://psyarxiv.com/ekqrv/'
 ---
