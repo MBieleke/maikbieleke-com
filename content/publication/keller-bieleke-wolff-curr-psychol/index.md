@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Bursting balloons -- Comparison of risk propensity between extreme sports,
+title: Bursting balloons - Comparison of risk propensity between extreme sports,
   esports, and the general public
 subtitle: ''
 summary: ''
@@ -14,7 +14,7 @@ tags:
 - extreme sports
 - risk taking
 categories: []
-date: -01-01
+date: 2021-12-14
 lastmod: 2021-12-29T18:31:26+01:00
 featured: false
 draft: false
