@@ -58,6 +58,6 @@ abstract: In this chapter, we introduce Mindset theory of Action Phases (MAP) an
   Exp Soc Psychol 38:69--119, 2006). We present applied contexts and recent developments
   of MAP and implementation intentions and close the chapter by discussing a study
   on the effects of implementation intentions in the domain of consumer psychology.
-publication: 'Keller, L., Bieleke, M., & Gollwitzer, P. M. (2019). Mindset theory of action phases and if-then planning. In K. Sassenberg & M. L. Vliek (Eds.), Social psychology in action: Evidence-based interventions from theory to practice (pp. 23–37). Springer. https://doi.org/10.1007/978-3-030-13788-5_2'
+publication: 'Keller, L., Bieleke, M., & Gollwitzer, P. M. (2019). Mindset theory of action phases and if-then planning. In K. Sassenberg & M. L. Vliek (Eds.), *Social psychology in action: Evidence-based interventions from theory to practice* (pp. 23–37). Springer. https://doi.org/10.1007/978-3-030-13788-5_2'
 # doi: 10.1007/978-3-030-13788-5textunderscore 2
 ---

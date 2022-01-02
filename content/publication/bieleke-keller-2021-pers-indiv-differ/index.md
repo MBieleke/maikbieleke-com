@@ -65,6 +65,6 @@ abstract: Making if-then plans is a self-regulation strategy that facilitates go
   individual differences in if-then planning that can be efficiently and reliably
   measured with the ITPS, and reveal systematic associations between these individual
   differences and goal attainment.
-publication: 'Bieleke, M., & Keller, L. (2021). Individual differences in if-then planning: Insights from the development and application of the If-Then Planning Scale (ITPS). Personality and Individual Differences, 170, 110500. https://doi.org/10.1016/j.paid.2020.110500'
+publication: 'Bieleke, M., & Keller, L. (2021). Individual differences in if-then planning: Insights from the development and application of the If-Then Planning Scale (ITPS). *Personality and Individual Differences*, *170*, 110500. https://doi.org/10.1016/j.paid.2020.110500'
 # doi: 10.1016/j.paid.2020.110500
 ---

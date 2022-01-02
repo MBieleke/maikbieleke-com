@@ -83,6 +83,6 @@ abstract: "Muscular strength has a strong positive impact on cardiometabolic hea
   \ to ignore pain. This pattern of results was reversed with regard to mind-over-body\
   \ beliefs. These findings indicate that the efficacy of psychological strategies\
   \ hinges on recreational athletes' beliefs regarding athletic performance."
-publication: 'Hirsch, A., Bieleke, M., Bertschinger, R., Schüler, J., & Wolff, W. (2021). Struggles and strategies in anaerobic and aerobic cycling tests: A mixed-method approach with a focus on tailored self-regulation strategies. PLOS ONE, 16(10). https://doi.org/10.1371/journal.pone.0259088'
+publication: 'Hirsch, A., Bieleke, M., Bertschinger, R., Schüler, J., & Wolff, W. (2021). Struggles and strategies in anaerobic and aerobic cycling tests: A mixed-method approach with a focus on tailored self-regulation strategies. *PLOS ONE*, *16*(10). https://doi.org/10.1371/journal.pone.0259088'
 # doi: 10.3390/ijerph17072576
 ---

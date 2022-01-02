@@ -67,6 +67,6 @@ abstract: Volleyball serves constitute an important example for a self-controlle
   better than during the first series. Taken together, the results of this pilot field
   study suggest that conveying either goals or plans as self-control strategies may
   involve initial adjustment costs followed by a subsequent recovery period.
-publication: 'Bieleke, M., Kriech, C., & Wolff, W. (2019). Served well? A pilot field study on the effects of conveying self-control strategies on volleyball service performance. Behavioral Sciences, 9(9). https://doi.org/10.3390/bs9090093'
+publication: 'Bieleke, M., Kriech, C., & Wolff, W. (2019). Served well? A pilot field study on the effects of conveying self-control strategies on volleyball service performance. *Behavioral Sciences*, *9*(9). https://doi.org/10.3390/bs9090093'
 # doi: 10.3390/bs9090093
 ---

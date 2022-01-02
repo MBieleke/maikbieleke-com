@@ -65,6 +65,6 @@ abstract: Enduring physical strain is an important ability and prototypically re
   indicate that self-regulation plays an important role in endurance performance and
   that self-regulatory processes during endurance performance might be reflected in
   LPFC activation.
-publication: 'Wolff, W., Bieleke, M., Hirsch, A., Wienbruch, C., Gollwitzer, P. M., & Schüler, J. (2018). Increase in prefrontal cortex oxygenation during static muscular endurance performance is modulated by self-regulation strategies. Scientific Reports, 8(1), 15756. https://doi.org/10.1038/s41598-018-34009-2'
+publication: 'Wolff, W., Bieleke, M., Hirsch, A., Wienbruch, C., Gollwitzer, P. M., & Schüler, J. (2018). Increase in prefrontal cortex oxygenation during static muscular endurance performance is modulated by self-regulation strategies. *Scientific Reports*, *8*(1), 15756. https://doi.org/10.1038/s41598-018-34009-2'
 # doi: 10.1038/s41598-018-34009-2
 ---

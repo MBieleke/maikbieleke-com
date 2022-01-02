@@ -63,6 +63,6 @@ abstract: Arguably, extreme sports athletes exhibit a more significant risk appe
   athletes. Furthermore, BART-performance predicted sports-specific risk taking and
   its affective consequences. Our results speak to the BART's ecological validity
   and the unique role of physical consequences on risk-taking behavior.
-publication: 'Keller, L., Bieleke, M., & Wolff, W. (2021). Bursting balloons – Comparison of risk propensity between extreme sports, esports, and the general public. Current Psychology. Advance online publication. https://doi.org/10.1007/s12144-021-02616-4'
+publication: 'Keller, L., Bieleke, M., & Wolff, W. (2021). Bursting balloons – Comparison of risk propensity between extreme sports, esports, and the general public. *Current Psychology*. Advance online publication. https://doi.org/10.1007/s12144-021-02616-4'
 # doi: 10.1007/s12144-021-02616-4
 ---

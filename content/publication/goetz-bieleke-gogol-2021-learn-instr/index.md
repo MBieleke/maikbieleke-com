@@ -66,6 +66,6 @@ abstract: "Relationship quality and emotional experience are both important cons
   \ relationship quality and emotions were largely equivalent across school domains\
   \ but differed in strength across emotions. Implications for future research and\
   \ educational practice are discussed."
-publication: 'Goetz, T., Bieleke, M., Gogol, K., van Tartwijk, J., Mainhard, T., Lipnevich, A. A., & Pekrun, R. (2021). Getting along and feeling good: Reciprocal associations between student-teacher relationship quality and students’ emotions. Learning and Instruction, 71, 101349. https://doi.org/10.1016/j.learninstruc.2020.101349'
+publication: 'Goetz, T., Bieleke, M., Gogol, K., van Tartwijk, J., Mainhard, T., Lipnevich, A. A., & Pekrun, R. (2021). Getting along and feeling good: Reciprocal associations between student-teacher relationship quality and students’ emotions. *Learning and Instruction*, *71*, 101349. https://doi.org/10.1016/j.learninstruc.2020.101349'
 # doi: 10.1016/j.learninstruc.2020.101349
 ---

@@ -63,6 +63,6 @@ abstract: We investigated whether social value orientation (SVO) moderates the e
   scores made similar decisions in both conditions. This pattern of results suggests
   that SVO moderates the effects of intuitive versus reflective modes of processing
   on responses to low ultimatum offers.
-publication: 'Bieleke, M., Gollwitzer, P. M., Oettingen, G., & Fischbacher, U. (2017). Social value orientation moderates the effects of intuition versus reflection on responses to unfair ultimatum offers. Journal of Behavioral Decision Making, 30(2), 569–581. https://doi.org/10.1002/bdm.1975'
+publication: 'Bieleke, M., Gollwitzer, P. M., Oettingen, G., & Fischbacher, U. (2017). Social value orientation moderates the effects of intuition versus reflection on responses to unfair ultimatum offers. *Journal of Behavioral Decision Making*, *30*(2), 569–581. https://doi.org/10.1002/bdm.1975'
 # doi: 10.1002/bdm.1975
 ---

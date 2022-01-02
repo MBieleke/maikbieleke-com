@@ -72,6 +72,6 @@ abstract: Deliberation is commonly assumed to be a central characteristic of hum
   regarding deliberation, we aim to highlight that it is worthwhile considering this
   minimal consequence of deliberation as compared with certain higher cognitive functions
   in the interpretation of deliberation outcomes.
-publication: 'Martiny-Huenger, T., Bieleke, M., Doerflinger, J., Stephensen, M. B., & Gollwitzer, P. M. (2021). Deliberation decreases the likelihood of expressing dominant responses. Psychonomic Bulletin & Review, 28, 139–157. https://doi.org/10.3758/s13423-020-01795-8'
+publication: 'Martiny-Huenger, T., Bieleke, M., Doerflinger, J., Stephensen, M. B., & Gollwitzer, P. M. (2021). Deliberation decreases the likelihood of expressing dominant responses. *Psychonomic Bulletin & Review*, *28*, 139–157. https://doi.org/10.3758/s13423-020-01795-8'
 # doi: 10.3758/s13423-020-01795-8
 ---

@@ -69,6 +69,6 @@ abstract: 'In an effort to mitigate the impact of the COVID-19 pandemic, countri
   bored by bothering: Complying with nonpharmacological containment measures like
   avoiding to travel and to gather can come at the cost of getting bored, an experience
   that was strongly linked to negative affect in our study.'
-publication: 'Martarelli, C. S., Wolff, W., & Bieleke, M. (2021). Bored by bothering? A cost-value approach to pandemic boredom. Humanities and Social Sciences Communications, 8, 218. https://doi.org/10.1057/s41599-021-00894-8'
+publication: 'Martarelli, C. S., Wolff, W., & Bieleke, M. (2021). Bored by bothering? A cost-value approach to pandemic boredom. *Humanities and Social Sciences Communications*, *8*, 218. https://doi.org/10.1057/s41599-021-00894-8'
 # doi: https://doi.org/10.1057/s41599-021-00894-8
 ---

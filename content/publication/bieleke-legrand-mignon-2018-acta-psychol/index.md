@@ -63,6 +63,6 @@ abstract: Forming implementation intentions (i.e., if-then planning) is a powerf
   required the planned response as well. We discuss theoretical implications as well
   as potential benefits and pitfalls emerging from these non-planned effects of forming
   implementation intentions.
-publication: 'Bieleke, M., Legrand, E., Mignon, A., & Gollwitzer, P. M. (2018). More than planned: Implementation intention effects in non-planned situations. Acta Psychologica, 184, 64–74. https://doi.org/10.1016/j.actpsy.2017.06.003'
+publication: 'Bieleke, M., Legrand, E., Mignon, A., & Gollwitzer, P. M. (2018). More than planned: Implementation intention effects in non-planned situations. *Acta Psychologica*, *184*, 64–74. https://doi.org/10.1016/j.actpsy.2017.06.003'
 doi: 10.1016/j.actpsy.2017.06.003
 ---

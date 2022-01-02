@@ -66,6 +66,6 @@ abstract: Social distancing during the coronavirus-disease-2019 (COVID-19) pande
   perceiving them as more or less difficult; however, self-control moderated the effect
   of difficulty on adherence. Our results are immediately relevant to improve the
   efficacy of social distancing guidelines in the COVID-19 response.
-publication: 'Wolff, W., Martarelli, C. S., Schüler, J., & Bieleke, M. (2020). High boredom proneness and low trait self-control impair adherence to social distancing guidelines during the COVID-19 Pandemic. International Journal of Environmental Research and Public Health, 17(15). https://doi.org/10.3390/ijerph17155420'
+publication: 'Wolff, W., Martarelli, C. S., Schüler, J., & Bieleke, M. (2020). High boredom proneness and low trait self-control impair adherence to social distancing guidelines during the COVID-19 Pandemic. *International Journal of Environmental Research and Public Health*, *17*(15). https://doi.org/10.3390/ijerph17155420'
 # doi: 10.3390/ijerph17155420
 ---

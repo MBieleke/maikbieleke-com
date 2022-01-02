@@ -63,6 +63,6 @@ abstract: Self-control is critical for successful participation and performance 
   in affecting sports performance and exercise participation. We close by highlighting
   several promising routes for integrating self-control and boredom research in the
   context of sports performance and exercise behavior.
-publication: 'Wolff, W., Bieleke, M., Martarelli, C. S., & Danckert, J. (2021). A primer on the role of boredom in self-controlled sports and exercise behavior. Frontiers in Psychology, 12, 637839. https://doi.org/10.3389/fpsyg.2021.637839'
+publication: 'Wolff, W., Bieleke, M., Martarelli, C. S., & Danckert, J. (2021). A primer on the role of boredom in self-controlled sports and exercise behavior. *Frontiers in Psychology*, *12*, 637839. https://doi.org/10.3389/fpsyg.2021.637839'
 # doi: 10.3389/fpsyg.2021.637839
 ---

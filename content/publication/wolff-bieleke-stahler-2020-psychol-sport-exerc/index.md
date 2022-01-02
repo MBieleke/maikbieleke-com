@@ -78,6 +78,6 @@ abstract: "Physical exercise is an effective tool for improving public health, b
   \ boredom in the exercise setting: exercise-related boredom and getting easily bored\
   \ in general are associated with less exercise activity. This is in line with recent\
   \ theorizing on boredoms' and self-controls' function in guiding goal-directed behavior."
-publication: 'Wolff, W., Bieleke, M., Stähler, J., & Schüler, J. (2020). Too bored for sports? Adaptive and less-adaptive latent personality profiles for exercise behavior. Psychology of Sport and Exercise, 101851. https://doi.org/10.1016/j.psychsport.2020.101851'
+publication: 'Wolff, W., Bieleke, M., Stähler, J., & Schüler, J. (2020). Too bored for sports? Adaptive and less-adaptive latent personality profiles for exercise behavior. *Psychology of Sport and Exercise*, 101851. https://doi.org/10.1016/j.psychsport.2020.101851'
 # doi: 10.1016/j.psychsport.2020.101851
 ---

@@ -72,6 +72,6 @@ abstract: "Endurance sports pose a plethora of mental demands that exercisers ha
   \ that if-then plans did not help exercisers to improve their performance. These\
   \ findings shed novel light into the mental processes accompanying endurance exercise\
   \ and the limits they pose on performance."
-publication: 'Hirsch, A., Bieleke, M., Schüler, J., & Wolff, W. (2020). Implicit theories about athletic ability modulate the effects of if-then planning on performance in a standardized endurance task. International Journal of Environmental Research and Public Health, 17(7), 2576. https://doi.org/10.3390/ijerph17072576'
+publication: 'Hirsch, A., Bieleke, M., Schüler, J., & Wolff, W. (2020). Implicit theories about athletic ability modulate the effects of if-then planning on performance in a standardized endurance task. *International Journal of Environmental Research and Public Health*, *17*(7), 2576. https://doi.org/10.3390/ijerph17072576'
 # doi: 10.1371/journal.pone.0259088
 ---

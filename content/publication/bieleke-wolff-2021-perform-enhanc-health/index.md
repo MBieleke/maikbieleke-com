@@ -38,6 +38,6 @@ publishDate: '2021-12-29T17:31:21.406293Z'
 publication_types:
 - '2'
 abstract: ''
-publication: 'Bieleke, M., & Wolff, W. (2021). Editorial: The self-regulation of human performance. Performance Enhancement & Health, 9(2), 100173. https://doi.org/10.1016/j.peh.2020.100173'
+publication: 'Bieleke, M., & Wolff, W. (2021). Editorial: The self-regulation of human performance. *Performance Enhancement & Health*, *9*(2), 100173. https://doi.org/10.1016/j.peh.2020.100173'
 # doi: 10.1016/j.peh.2020.100173
 ---

@@ -50,5 +50,5 @@ abstract: If-then action planning (i.e., implementation intentions; Gollwitzer, 
   Thus, if-then planning is an intriguing instance of how ``controlled'' conscious
   thought at one point in time can lead to ``automatic'' action at a later point in
   time.
-publication: 'Martiny-Huenger, T., Bieleke, M., Oettingen, G., & Gollwitzer, P. M. (2016). From thought to automatic action: Strategic and spontaneous action control by if-then planning. In R. Deutsch, B. Gawronski, & W. Hofmann (Eds.), Reflective and impulsive determinants of human behavior (pp. 69–84). Routledge.'
+publication: 'Martiny-Huenger, T., Bieleke, M., Oettingen, G., & Gollwitzer, P. M. (2016). From thought to automatic action: Strategic and spontaneous action control by if-then planning. In R. Deutsch, B. Gawronski, & W. Hofmann (Eds.), *Reflective and impulsive determinants of human behavior* (pp. 69–84). Routledge.'
 ---

@@ -78,6 +78,6 @@ abstract: 'Ratings of perceived exertion (RPE) are routinely assessed in exercis
   higher RPE than control participants. This suggests that strategies to self-regulate
   RPE might have ironic effects that hamper performance, maybe by increasing attention
   to RPE. This implication is important for exercise physiologists, athletes and coaches.'
-publication: 'Bieleke, M., & Wolff, W. (2017). That escalated quickly–Planning to ignore RPE can backfire. Frontiers in Physiology, 8, 736. https://doi.org/10.3389/fphys.2017.00736'
+publication: 'Bieleke, M., & Wolff, W. (2017). That escalated quickly–Planning to ignore RPE can backfire. *Frontiers in Physiology*, *8*, 736. https://doi.org/10.3389/fphys.2017.00736'
 doi: 10.3389/fphys.2017.00736
 ---

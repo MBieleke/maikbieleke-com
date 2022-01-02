@@ -61,6 +61,6 @@ abstract: 'Implementation intentions (if-then plans) help people to automaticall
   intention participants, who additionally lowered their goal commitment. We conclude
   that implementation intentions render goal striving tenaciously flexible, facilitating
   goal-directed behaviors unless this is associated with excessive costs.'
-publication: 'Legrand, E., Bieleke, M., Gollwitzer, P. M., & Mignon, A. (2017). Nothing will stop me? Flexibly tenacious goal striving with implementation intentions. Motivation Science, 3(2), 101–118. https://doi.org/10.1037/mot0000050'
+publication: 'Legrand, E., Bieleke, M., Gollwitzer, P. M., & Mignon, A. (2017). Nothing will stop me? Flexibly tenacious goal striving with implementation intentions. *Motivation Science*, *3*(2), 101–118. https://doi.org/10.1037/mot0000050'
 # doi: 10.1037/mot0000050
 ---

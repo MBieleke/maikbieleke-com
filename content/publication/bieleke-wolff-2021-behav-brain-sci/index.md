@@ -48,6 +48,6 @@ abstract: The continuous revaluation of rewards lies at the core of Ainslie's ac
   that boredom evokes revaluation. By biasing behavior toward exploration, boredom
   necessitates effortful willpower to balance it against exploitation, thereby rendering
   suppression a highly adaptive function of willpower.
-publication: 'Bieleke, M., & Wolff, W. (2021). It’s not a bug, it’s boredom: Effortful willpower balances exploitation and exploration. Behavioral and Brain Sciences, 44, E33. https://doi.org/10.1017/S0140525X20001053'
+publication: 'Bieleke, M., & Wolff, W. (2021). It’s not a bug, it’s boredom: Effortful willpower balances exploitation and exploration. *Behavioral and Brain Sciences*, *44*, E33. https://doi.org/10.1017/S0140525X20001053'
 # doi: 10.1017/S0140525X20001053
 ---

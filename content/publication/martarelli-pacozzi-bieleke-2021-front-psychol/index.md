@@ -66,6 +66,6 @@ abstract: In response to the coronavirus disease 2019 (COVID-19) schools around 
   homeschooling context. Our results indicate that boredom proneness is a critical
   construct to consider when educational systems switch to homeschooling during a
   pandemic.
-publication: 'Martarelli, C. S., Pacozzi, S., Bieleke, M., & Wolff, W. (2021). High trait self-control and low boredom proneness help COVID-19 homeschoolers. Frontiers in Psychology, 12, 594256. https://doi.org/10.3389/fpsyg.2021.594256'
+publication: 'Martarelli, C. S., Pacozzi, S., Bieleke, M., & Wolff, W. (2021). High trait self-control and low boredom proneness help COVID-19 homeschoolers. *Frontiers in Psychology*, *12*, 594256. https://doi.org/10.3389/fpsyg.2021.594256'
 # doi: 10.3389/fpsyg.2021.594256
 ---
