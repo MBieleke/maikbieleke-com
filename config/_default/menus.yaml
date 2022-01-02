@@ -11,7 +11,7 @@ main:
   - name: Publications
     weight: 20
     identifier: "publications"
-  - name: Articles
+  - name: All
     url: 'publication'
     weight: 20
     parent: "publications"
