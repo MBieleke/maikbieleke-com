@@ -5,7 +5,7 @@
 
 title: Maik Bieleke # Website name
 baseurl: 'https://maikbieleke.com' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: 'test' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
