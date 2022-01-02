@@ -16,7 +16,7 @@ main:
     weight: 20
     parent: "publications"
   - name: Preprints
-    url: 'preprints'
+    url: 'preprint'
     weight: 20
     parent: "publications"
 
