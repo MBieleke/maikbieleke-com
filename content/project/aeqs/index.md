@@ -45,8 +45,6 @@ Please see [this]({{< relref "/course" >}})
 You found me!
 {{< /spoiler >}}
 
-The publication is [here]({{< relref "/publications/bieleke-gogol-goetz-2021-contemp-educ-psychol" >}})
-
 {{< cite page="/publication/bieleke-gogol-goetz-2021-contemp-educ-psychol" view="4" >}}
 
 {{< cta cta_text="Do something" cta_link="/" cta_new_tab="false" cta_alt_text="Alternative action" cta_alt_link="/" cta_alt_new_tab="false" >}}
