@@ -69,6 +69,6 @@ abstract: Purpose:~This study aims to take a dual-process perspective and argues
   by using ifthen plans, thereby reducing impulse buying. Originality/value:~This
   research helps understand new precursors of impulse buying in understudied European
   samples of young consumers.
-publication: '*European Journal of Marketing*'
+publication: 'Thürmer, J. L., Bieleke, M., Wieber, F., & Gollwitzer, P. M. (2020). If-then plans help regulate automatic peer influence on impulse buying. European Journal of Marketing, 54(9), 2079–2105. https://doi.org/10.1108/EJM-05-2018-0341'
 # doi: 10.1108/EJM-05-2018-0341
 ---

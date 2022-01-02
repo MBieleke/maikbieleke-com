@@ -47,6 +47,6 @@ abstract: 'People often struggle with attaining their goals. One important reaso
   and how implementation intentions work, summarise the literature regarding their
   facilitative effects on goal attainment, and discuss their potential for enhancing
   endurance performance.'
-publication: '*Endurance performance in sport*'
+publication: 'Wolff, W., Bieleke, M., & Schüler, J. (2019). Goal striving and endurance performance. In C. Meijen (Ed.), Endurance performance in sport: Psychological theory and interventions (pp. 125–137). Routledge. https://doi.org/10.4324/9781315167312-10'
 # doi: 10.4324/9781315167312-10
 ---

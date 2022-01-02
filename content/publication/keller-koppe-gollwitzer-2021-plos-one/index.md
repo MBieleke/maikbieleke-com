@@ -67,6 +67,6 @@ abstract: The tendency to be overly confident in one's future and skills has lon
   overclaiming. Surprisingly, overclaiming was not at all related to risk preferences
   or personality traits. This set of results shows the need for relevant theoretical
   and methodological refinements.
-publication: '*PLOS ONE*'
+publication: 'Keller, L., Koppe, K.-M., Gollwitzer, P. M., & Bieleke, M. (2021). Overclaiming is related to confidence but not to dark triad personality traits or stated and revealed risk preferences. PLOS ONE, 16(8). https://doi.org/10.1371/journal.pone.0255207'
 # doi: 10.1371/journal.pone.0255207
 ---

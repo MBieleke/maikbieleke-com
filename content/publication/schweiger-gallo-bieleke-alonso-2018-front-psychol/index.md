@@ -64,6 +64,6 @@ abstract: As anger can lead to aggressive behavior aiming at intentionally hurti
   to emotion regulation research by introducing MCII as an effective strategy that
   can be tailored to satisfy individual emotion regulation demands, such as dealing
   with experienced anger.
-publication: '*Frontiers in Psychology*'
+publication: 'Schweiger Gallo, I., Bieleke, M., Alonso, M. A., Gollwitzer, P. M., & Oettingen, G. (2018). Downregulation of anger by mental contrasting with implementation intentions (MCII). Frontiers in Psychology, 9, 1838. https://doi.org/10.3389/fpsyg.2018.01838'
 # doi: 10.3389/fpsyg.2018.01838
 ---

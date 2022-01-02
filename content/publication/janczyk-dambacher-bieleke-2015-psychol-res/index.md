@@ -57,6 +57,6 @@ abstract: Choosing among different options is costly. Typically, response times 
   logic, Experiment 3 further supported this view. We discuss the findings in the
   light of alternative accounts and offer potential mechanisms underlying performance
   differences in forced- and free-choice tasks.
-publication: '*Psychological Research*'
+publication: 'Janczyk, M., Dambacher, M., Bieleke, M., & Gollwitzer, P. M. (2015). The benefit of no choice: Goal-directed plans enhance perceptual processing. Psychological Research, 79(2), 206–220. https://doi.org/10.1007/s00426-014-0549-5'
 # doi: 10.1007/s00426-014-0549-5
 ---

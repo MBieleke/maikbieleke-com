@@ -61,6 +61,6 @@ abstract: The strength model of self-control proposes that all acts of self-cont
   primary self-control task lasted longer. These effects did not differ between the
   two self-control tasks, suggesting that the observed null findings were independent
   of task type.
-publication: '*Psychological Research*'
+publication: 'Wolff, W., Sieber, V., Bieleke, M., & Englert, C. (2021). Task duration and task order do not matter: No effect on self-control performance. Psychological Research, 85. https://doi.org/10.1007/s00426-019-01230-1'
 # doi: 10.1007/s00426-019-01230-1
 ---

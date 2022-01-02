@@ -68,6 +68,6 @@ abstract: Self-control does not always work effectively. Whether this reflects t
   Finally, boredom predicted performance in the secondary task. These results show
   an intricate relationship between self-control and boredom that research on these
   two constructs should carefully disentangle.
-publication: '*Cognition and Emotion*'
+publication: 'Bieleke, M., Barton, L., & Wolff, W. (2021). Trajectories of boredom in self-control demanding tasks. *Cognition and Emotion*, *35*(5), 1018–1028. https://doi.org/10.1080/02699931.2021.1901656'
 # doi: 10.1080/02699931.2021.1901656
 ---

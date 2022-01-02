@@ -72,6 +72,6 @@ abstract: If-then planning (implementation intentions) describes a self-regulato
   be a beneficial strategy. Based on these findings, we identify the potentials and
   pitfalls of using if-then plans to enhance sports-related performance, discuss promising
   routes for future research, and derive practical implications for athletes and coaches.
-publication: '*Zeitschrift für Sportpsychologie*'
+publication: 'Bieleke, M., Wolff, W., Englert, C., & Gollwitzer, P. M. (2021). If-then planning in sports: A scoping review. Zeitschrift Für Sportpsychologie, 28(3), 109–120. https://doi.org/10.1026/1612-5010/a000336'
 # doi: 10.1026/1612-5010/a000336
 ---

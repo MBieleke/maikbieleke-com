@@ -76,6 +76,6 @@ abstract: 'In the wake of the Coronavirus Disease 2019 (COVID-19), social distan
   control participants. In sum, individual differences in if-then planning, self-control,
   and boredom predicted adherence to social distancing guidelines. If-then planning
   interventions are promising but require further steps to ascertain compliance.'
-publication: '*Current Psychology*'
+publication: 'Bieleke, M., Martarelli, C. S., & Wolff, W. (2021). If-then planning, self-control, and boredom as predictors of adherence to social distancing guidelines: Evidence from a two-wave longitudinal study with a behavioral intervention. Current Psychology. Advance online publication. https://doi.org/10.1007/s12144-021-02106-7'
 # doi: 10.1007/s12144-021-02106-7
 ---

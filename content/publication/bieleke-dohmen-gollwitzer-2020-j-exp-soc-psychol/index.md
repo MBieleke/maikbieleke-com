@@ -74,6 +74,6 @@ abstract: 'Insights into the processes underlying observed decisions are crucial
   how intuitive versus reflective decision modes can alter controlled information
   acquisition. Finally, our results illustrate that Mouselab is a simple-to-use and
   versatile tool for tracing cognitive processes underlying social psychological phenomena.'
-publication: '*Journal of Experimental Social Psychology*'
+publication: 'Bieleke, M., Dohmen, D., & Gollwitzer, P. M. (2020). Effects of social value orientation (SVO) and decision mode on controlled information acquisition—A Mouselab perspective. *Journal of Experimental Social Psychology*, *86*, 103896. https://doi.org/10.1016/j.jesp.2019.103896'
 # doi: 10.1016/j.jesp.2019.103896
 ---

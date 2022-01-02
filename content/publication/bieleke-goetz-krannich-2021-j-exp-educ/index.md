@@ -69,6 +69,6 @@ abstract: Tests in educational contexts often start with easy tasks, assuming th
   These results cast doubt on the preference for easy-to-difficult over difficult-to-easy
   task orders, revealing their potential for causing adverse experiences at the end
   of the test (e.g., reflecting contrast effects).
-publication: '*Journal of Experimental Education*'
+publication: 'Bieleke, M., Goetz, T., Krannich, M., Roos, A.-L., & Yanagida, T. (2021). Starting tests with easy versus difficult tasks: Effects on appraisals and emotions. *Journal of Experimental Education*. https://doi.org/10.1080/00220973.2021.1947764'
 # doi: 10.1080/00220973.2021.1947764
 ---

@@ -66,6 +66,6 @@ abstract: The Achievement Emotions Questionnaire (AEQ) is a well-established ins
   outcomes of achievement emotions were highly similar for the AEQ-S and AEQ scales.
   These findings suggest that the AEQ-S is a suitable substitute for the AEQ when
   administration time is limited.
-publication: '*Contemporary Educational Psychology*'
+publication: 'Bieleke, M., Gogol, K., Goetz, T., Daniels, L., & Pekrun, R. (2021). The AEQ-S: A short version of the Achievement Emotions Questionnaire. *Contemporary Educational Psychology*, *65*, 101940. https://doi.org/10.1016/j.cedpsych.2020.101940'
 # doi: 10.1016/j.cedpsych.2020.101940
 ---

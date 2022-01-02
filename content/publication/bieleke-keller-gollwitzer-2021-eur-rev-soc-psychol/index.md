@@ -60,6 +60,6 @@ abstract: The self-regulation strategy of forming implementation intentions has 
   cognitive processes, and the prospects of integrating insights from related fields
   of research. As such, our review is an empathic call for addressing the many intriguing
   conceptual and empirical questions that still revolve around implementation intentions.
-publication: '*European Review of Social Psychology*'
+publication: 'Bieleke, M., Keller, L., & Gollwitzer, P. M. (2021). If-then planning. European Review of Social Psychology, 32(1), 88–122. https://doi.org/10.1080/10463283.2020.1808936'
 # doi: 10.1080/10463283.2020.1808936
 ---

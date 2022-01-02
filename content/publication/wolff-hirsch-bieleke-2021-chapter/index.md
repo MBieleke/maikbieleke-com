@@ -60,5 +60,5 @@ abstract: Self-regulatory control plays a key role in determining sports perform
   in neuroscientific research on self-regulatory control in sports. Here, we will
   summarize research on the involvement of these areas in regard to self-regulatory
   control in sports.
-publication: '*Handbook of self-regulation and motivation in sport and exercise*'
+publication: 'Wolff, W., Hirsch, A., Bieleke, M., & Shenhav, A. (2021). Neuroscientific approaches to self-regulatory control in sports. In C. Englert & I. Taylor (Eds.), Handbook of self-regulation and motivation in sport and exercise (pp. 149–165). Routledge.'
 ---
