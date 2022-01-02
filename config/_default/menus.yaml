@@ -9,13 +9,16 @@ main:
     weight: 10
 
   - name: Publications
-    url: 'publication'
     weight: 20
-    identifier: "test"
+    identifier: "publications"
+  - name: Articles
+    url: 'publications'
+    weight: 20
+    parent: "publications"
   - name: Preprints
-    url: 'preprint'
+    url: 'preprints'
     weight: 20
-    parent: "test"
+    parent: "publications"
 
   - name: "Questionnaires"
     url: "questionnaires"

@@ -58,7 +58,7 @@ social:
   link: https://orcid.org/0000-0003-2586-1416
 - icon: linkedin
   icon_pack: fab
-  link: linkedin.com/in/maik-bieleke/
+  link: https://linkedin.com/in/maik-bieleke/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
