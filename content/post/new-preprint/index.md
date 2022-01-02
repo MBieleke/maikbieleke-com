@@ -44,4 +44,6 @@ categories:
 
 ## Boredom is the root of all evil — or is it? A psychometric network approach to individual differences in behavioral responses to boredom
 
-Together with Leonie Ripper, Julia Schüler, and Wanja Wolff, I introduce a **new measure of boredom** that (1) captures the urge to avoid or escape boredom, (2) is consistent with function accounts on boredom, and (3) unlike boredom proneness, is linked to both maladaptive and adapative behavior.
+In a new preprint, Leonie Ripper, Julia Schüler, Wanja Wolff, and I introduce a **new measure of boredom** that (1) captures the urge to avoid or escape boredom, (2) is consistent with function accounts on boredom, and (3) unlike boredom proneness, is linked to both maladaptive and adapative behavior.
+
+For more information, please see the preprint. 
