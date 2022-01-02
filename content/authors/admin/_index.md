@@ -53,9 +53,6 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Maik-Bieleke
-- icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/0000-0003-2586-1416
 - icon: linkedin
   icon_pack: fab
   link: https://linkedin.com/in/maik-bieleke/
