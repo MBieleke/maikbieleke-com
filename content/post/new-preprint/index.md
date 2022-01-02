@@ -46,4 +46,4 @@ categories:
 
 In a new preprint, Leonie Ripper, Julia Schüler, Wanja Wolff, and I introduce a **new measure of boredom** that (1) captures the urge to avoid or escape boredom, (2) is consistent with function accounts on boredom, and (3) unlike boredom proneness, is linked to both maladaptive and adapative behavior.
 
-For more information, please see the [preprint]({{< relref "/preprints/bieleke-ripper-schueler-2021-preprint" >}}). 
+For more information, please see the [preprint]({{< relref "/publication/bieleke-ripper-schueler-2021-preprint" >}}). 
