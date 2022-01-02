@@ -56,6 +56,5 @@ abstract: Implementation intentions (Gollwitzer, 1993, 1999, 2014) are if-then p
   internal and external influences on behavior (i.e., affect, norms, priming and mimicry)
   in consumer context. We conclude by outlining topics for future research on implementation
   intentions in the domain of consumer behavior.
-publication: '*Routledge international handbooks. Routledge international handbook
-  of consumer psychology*'
+publication: 'Gollwitzer, P. M., Bieleke, M., & Sheeran, P. (2017). Enhancing consumer behaviour with implementation intentions. In C. V. Jansson-Boyd & M. J. Zawisza (Eds.), Routledge international handbooks. Routledge international handbook of consumer psychology (pp. 370–389). Routledge.'
 ---
