@@ -7,14 +7,16 @@ main:
   - name: Home
     url: '#about'
     weight: 10
+
   - name: Publications
     url: 'publication'
     weight: 20
     identifier: "test"
   - name: Preprints
-    url: 'preprints'
+    url: 'preprint'
     weight: 20
     parent: "test"
+
   - name: "Questionnaires"
     url: "questionnaires"
     weight: 30
