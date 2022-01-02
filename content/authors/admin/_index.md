@@ -29,7 +29,7 @@ interests:
 education:
   courses:
   - course: PhD in Psychology
-    institution: Graduate School of Decision Sciences, University of Konstanz
+    institution: Graduate School of Decision Sciences
     year: 2015
   - course: BSc in Economics
     institution: University of Konstanz
