@@ -19,7 +19,6 @@ date: '2021-03-20'
 lastmod: 2021-12-29T18:31:14+01:00
 featured: true
 draft: false
-links:
 
 links:
 - name: "Publisher"
