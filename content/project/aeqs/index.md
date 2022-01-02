@@ -4,6 +4,7 @@ summary: The AEQ-S measures enjoyment, hope, pride, anger, anxiety, shame, hople
 tags:
 - AEQ-S
 date: "2021-12-01T00:00:00Z"
+draft: true
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

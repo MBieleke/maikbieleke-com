@@ -6,7 +6,7 @@ title: Maik Bieleke
 superuser: true
 
 # Role/position/tagline
-role: Senior Researcher Psychology
+role: Senior Researcher in Psychology
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -17,24 +17,26 @@ organizations:
 bio: My research interests include mental and physical effort, self-control and behavior change, and emotions related to achievement.
 
 # Interests to show in About widget
-# interests:
-# - Effort
-# - Self-control
-# - Behavior change
-# - Achievement emotions
+interests:
+- Effort
+- Performance
+- Self-control
+- Behavior change
+- Achievement emotions
+- Boredom
 
 # Education to show in About widget
-# education:
-#   courses:
-#   - course: PhD in Artificial Intelligence
-#     institution: Stanford University
-#     year: 2012
-#   - course: MEng in Artificial Intelligence
-#     institution: Massachusetts Institute of Technology
-#     year: 2009
-#   - course: BSc in Artificial Intelligence
-#     institution: Massachusetts Institute of Technology
-#     year: 2008
+education:
+  courses:
+  - course: PhD in Psychology
+    institution: Graduate School of Decision Sciences, University of Konstanz
+    year: 2015
+  - course: BSc in Economics
+    institution: University of Konstanz
+    year: 2011
+  - course: BSc in Psychology
+    institution: University of Konstanz
+    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -73,8 +75,6 @@ highlight_name: true
 # {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/# demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 ---
 
-I'm a senior researcher at the University of Konstanz [Sport Psychology Lab](https://www.sportwissenschaft.uni-konstanz.de/schueler/). My research interests include mental and physical effort, self-control and behavior change, and emotions in achievement settings.
-
-Currently, I focus on the psychological and physiological processes associated with physical activity and sports behavior. 
+I'm a senior researcher at the University of Konstanz [Sport Psychology Lab](https://www.sportwissenschaft.uni-konstanz.de/schueler/). In my research, I focus on how people (fail to) attain their goals, and the various physiological and psychological processes that accompany goal-directed behavior. The main emphasis currenmtly is on physical activity and sports behavior in lab and life settings. 
 
 
