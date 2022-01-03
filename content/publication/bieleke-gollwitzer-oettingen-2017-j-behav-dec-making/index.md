@@ -27,8 +27,8 @@ links:
   url: "https://onlinelibrary.wiley.com/doi/abs/10.1002/bdm.1975"
   icon_pack: ai
   icon: closed-access
-- name: "PDF"
-  url: "https://psyarxiv.com/82rwb/download"
+- name: "PDF (PsyArXiv)"
+  url: "https://psyarxiv.com/82rwb/"
   icon_pack: fas
   icon: file-pdf
 

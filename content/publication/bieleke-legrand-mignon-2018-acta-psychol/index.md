@@ -26,8 +26,8 @@ links:
   url: "https://www.sciencedirect.com/science/article/abs/pii/S0001691816304048"
   icon_pack: ai
   icon: closed-access
-- name: "PDF"
-  url: "https://psyarxiv.com/cys5f/download"
+- name: "PDF (PsyArXiv)"
+  url: "https://psyarxiv.com/cys5f/"
   icon_pack: fas
   icon: file-pdf
 

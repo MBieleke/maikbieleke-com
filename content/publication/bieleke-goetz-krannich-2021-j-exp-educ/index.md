@@ -29,8 +29,8 @@ links:
   url: "https://www.tandfonline.com/doi/abs/10.1080/00220973.2021.1947764"
   icon_pack: ai
   icon: closed-access
-- name: "PDF"
-  url: "https://psyarxiv.com/bd6fm/download"
+- name: "PDF (PsyArXiv)"
+  url: "https://psyarxiv.com/bd6fm/"
   icon_pack: fas
   icon: file-pdf
 

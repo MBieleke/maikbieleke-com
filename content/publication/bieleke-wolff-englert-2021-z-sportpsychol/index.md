@@ -27,8 +27,8 @@ links:
   url: "https://econtent.hogrefe.com/doi/10.1026/1612-5010/a000336"
   icon_pack: ai
   icon: closed-access
-- name: "PDF"
-  url: "https://psyarxiv.com/q73jw/download"
+- name: "PDF (PsyArXiv)"
+  url: "https://psyarxiv.com/q73jw/"
   icon_pack: fas
   icon: file-pdf
 

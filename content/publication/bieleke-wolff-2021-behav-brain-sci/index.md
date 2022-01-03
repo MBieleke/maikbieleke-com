@@ -20,8 +20,8 @@ links:
   url: "https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/its-not-a-bug-its-boredom-effortful-willpower-balances-exploitation-and-exploration/3BD22469082A3BEE21B04C93707B3FF5"
   icon_pack: ai
   icon: closed-access
-- name: "PDF"
-  url: "https://psyarxiv.com/k6tjn/download"
+- name: "PDF (PsyArXiv)"
+  url: "https://psyarxiv.com/k6tjn/"
   icon_pack: fas
   icon: file-pdf
 

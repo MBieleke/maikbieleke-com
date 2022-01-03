@@ -20,7 +20,7 @@ featured: true
 draft: false
 
 links:
-- name: "PDF"
+- name: "PDF (PsyArXiv)"
   url: "https://psyarxiv.com/mje7v/"
   icon_pack: fas
   icon: file-pdf

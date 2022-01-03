@@ -25,8 +25,8 @@ links:
   url: "https://tandfonline.com/doi/abs/10.1080/02699931.2021.1901656"
   icon_pack: ai
   icon: closed-access
-- name: "PDF"
-  url: "https://psyarxiv.com/ekqrv/download"
+- name: "PDF (PsyArXiv)"
+  url: "https://psyarxiv.com/ekqrv/"
   icon_pack: fas
   icon: file-pdf
 - name: "Data & Materials"

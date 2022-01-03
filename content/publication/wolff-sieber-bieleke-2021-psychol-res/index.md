@@ -21,8 +21,8 @@ links:
   url: "https://link.springer.com/article/10.1007/s00426-019-01230-1"
   icon_pack: ai
   icon: closed-access
-- name: "PDF"
-  url: "https://psyarxiv.com/ub4p5/download"
+- name: "PDF (PsyArXiv)"
+  url: "https://psyarxiv.com/ub4p5/"
   icon_pack: fas
   icon: file-pdf
 

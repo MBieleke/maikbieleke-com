@@ -26,7 +26,7 @@ links:
   icon_pack: ai
   icon: open-access
 - name: "PDF"
-  url: "https://www.tandfonline.com/doi/pdf/10.1080/10463283.2020.1808936?download=true"
+  url: "https://www.tandfonline.com/doi/full/10.1080/10463283.2020.1808936"
   icon_pack: fas
   icon: file-pdf
 

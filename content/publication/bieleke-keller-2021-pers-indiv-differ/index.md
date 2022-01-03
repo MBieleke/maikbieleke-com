@@ -25,8 +25,8 @@ links:
   url: "https://www.sciencedirect.com/science/article/pii/S0191886920306917"
   icon_pack: ai
   icon: open-access
-- name: "PDF"
-  url: "https://www.sciencedirect.com/science/article/pii/S0191886920306917/pdfft?isDTMRedir=true&download=true"
+- name: "PDF (Publisher)"
+  url: "https://www.sciencedirect.com/science/article/pii/S0191886920306917"
   icon_pack: fas
   icon: file-pdf
 - name: "Data & Materials"

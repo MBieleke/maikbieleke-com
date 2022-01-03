@@ -29,8 +29,8 @@ links:
   url: "https://www.sciencedirect.com/science/article/abs/pii/S1469029220308360"
   icon_pack: ai
   icon: closed-access
-- name: "PDF"
-  url: "https://osf.io/preprints/sportrxiv/tjw89/download"
+- name: "PDF (PsyArXiv)"
+  url: "https://osf.io/preprints/sportrxiv/tjw89/"
   icon_pack: fas
   icon: file-pdf
 - name: "Data & Materials"
