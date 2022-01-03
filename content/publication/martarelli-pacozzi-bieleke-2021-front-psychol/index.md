@@ -27,7 +27,7 @@ links:
   icon_pack: ai
   icon: open-access
 - name: "PDF"
-  url: "https://www.frontiersin.org/articles/10.3389/fpsyg.2021.594256/pdf"
+  url: "https://www.frontiersin.org/articles/10.3389/fpsyg.2021.594256/full"
   icon_pack: fas
   icon: file-pdf
 - name: "Data & Materials"

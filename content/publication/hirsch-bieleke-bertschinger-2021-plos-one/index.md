@@ -24,7 +24,7 @@ links:
   icon_pack: ai
   icon: open-access
 - name: "PDF"
-  url: "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0259088&type=printable"
+  url: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0259088"
   icon_pack: fas
   icon: file-pdf
 - name: "Data & Materials"

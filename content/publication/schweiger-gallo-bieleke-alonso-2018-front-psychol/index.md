@@ -29,7 +29,7 @@ links:
   icon_pack: ai
   icon: open-access
 - name: "PDF"
-  url: "https://www.frontiersin.org/articles/10.3389/fpsyg.2018.01838/pdf"
+  url: "https://www.frontiersin.org/articles/10.3389/fpsyg.2018.01838/full"
   icon_pack: fas
   icon: file-pdf
 

@@ -30,7 +30,7 @@ links:
   icon_pack: ai
   icon: open-access
 - name: "PDF"
-  url: "https://www.mdpi.com/1660-4601/17/7/2576/pdf"
+  url: "https://www.mdpi.com/1660-4601/17/7/2576/htm"
   icon_pack: fas
   icon: file-pdf
 

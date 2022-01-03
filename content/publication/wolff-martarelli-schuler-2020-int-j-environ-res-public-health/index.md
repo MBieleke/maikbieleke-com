@@ -28,7 +28,7 @@ links:
   icon_pack: ai
   icon: closed-access
 - name: "PDF"
-  url: "https://www.mdpi.com/1660-4601/17/15/5420/pdf"
+  url: "https://www.mdpi.com/1660-4601/17/15/5420/htm"
   icon_pack: fas
   icon: file-pdf
 - name: "Data & Materials"

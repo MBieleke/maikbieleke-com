@@ -27,7 +27,7 @@ links:
   icon_pack: ai
   icon: open-access
 - name: "PDF"
-  url: "https://www.frontiersin.org/articles/10.3389/fphys.2017.00736/pdf"
+  url: "https://www.frontiersin.org/articles/10.3389/fphys.2017.00736/full"
   icon_pack: fas
   icon: file-pdf
 

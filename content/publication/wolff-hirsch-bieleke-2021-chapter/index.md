@@ -21,8 +21,8 @@ links:
   url: "https://www.taylorfrancis.com/chapters/edit/10.4324/9781003176695-11/neuroscientific-approaches-self-regulatory-control-sports-wanja-wolff-anna-hirsch-maik-bieleke-amitai-shenhav"
   icon_pack: ai
   icon: closed-access
-- name: "PDF"
-  url: "https://psyarxiv.com/ysnvk/download"
+- name: "PDF (PsyArXiv"
+  url: "https://psyarxiv.com/ysnvk/"
   icon_pack: fas
   icon: file-pdf
 
