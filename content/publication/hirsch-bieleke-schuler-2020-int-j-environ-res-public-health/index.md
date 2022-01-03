@@ -25,11 +25,11 @@ featured: true
 draft: false
 
 links:
-- name: "Publisher"
+- name: "Article"
   url: "https://www.mdpi.com/1660-4601/17/7/2576/htm"
   icon_pack: ai
   icon: open-access
-- name: "PDF"
+- name: "PDF (Publisher)"
   url: "https://www.mdpi.com/1660-4601/17/7/2576/htm"
   icon_pack: fas
   icon: file-pdf

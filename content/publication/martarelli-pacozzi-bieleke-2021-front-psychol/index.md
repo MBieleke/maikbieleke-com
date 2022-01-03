@@ -22,11 +22,11 @@ featured: true
 draft: false
 
 links:
-- name: "Publisher"
+- name: "Article"
   url: "https://www.frontiersin.org/articles/10.3389/fpsyg.2021.594256/full"
   icon_pack: ai
   icon: open-access
-- name: "PDF"
+- name: "PDF (Publisher)"
   url: "https://www.frontiersin.org/articles/10.3389/fpsyg.2021.594256/full"
   icon_pack: fas
   icon: file-pdf

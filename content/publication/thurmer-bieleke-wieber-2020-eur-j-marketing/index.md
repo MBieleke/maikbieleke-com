@@ -23,11 +23,11 @@ featured: true
 draft: false
 
 links:
-- name: "Publisher"
+- name: "Article"
   url: "https://www.emerald.com/insight/content/doi/10.1108/EJM-05-2018-0341/full/html"
   icon_pack: ai
   icon: open-access
-- name: "PDF"
+- name: "PDF (Publisher)"
   url: "https://www.emerald.com/insight/content/doi/10.1108/EJM-05-2018-0341/full/pdf"
   icon_pack: fas
   icon: file-pdf

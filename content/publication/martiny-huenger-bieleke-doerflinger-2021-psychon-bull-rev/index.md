@@ -22,11 +22,11 @@ featured: true
 draft: false
 
 links:
-- name: "Publisher"
+- name: "Article"
   url: "https://link.springer.com/article/10.3758/s13423-020-01795-8"
   icon_pack: ai
   icon: open-access
-- name: "PDF"
+- name: "PDF (Publisher)"
   url: "https://link.springer.com/content/pdf/10.3758/s13423-020-01795-8.pdf"
   icon_pack: fas
   icon: file-pdf

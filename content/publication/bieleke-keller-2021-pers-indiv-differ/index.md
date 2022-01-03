@@ -21,7 +21,7 @@ featured: true
 draft: false
 
 links:
-- name: "Publisher"
+- name: "Article"
   url: "https://www.sciencedirect.com/science/article/pii/S0191886920306917"
   icon_pack: ai
   icon: open-access

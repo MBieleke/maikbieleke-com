@@ -16,11 +16,11 @@ featured: true
 draft: false
 
 links:
-- name: "Publisher"
+- name: "Article"
   url: "https://www.nature.com/articles/s41599-021-00894-8"
   icon_pack: ai
   icon: open-access
-- name: "PDF"
+- name: "PDF (Publisher)"
   url: "https://www.nature.com/articles/s41599-021-00894-8.pdf"
   icon_pack: fas
   icon: file-pdf

@@ -21,11 +21,11 @@ featured: true
 draft: false
 
 links:
-- name: "Publisher"
+- name: "Article"
   url: "https://www.tandfonline.com/doi/full/10.1080/10463283.2020.1808936"
   icon_pack: ai
   icon: open-access
-- name: "PDF"
+- name: "PDF (Publisher)"
   url: "https://www.tandfonline.com/doi/full/10.1080/10463283.2020.1808936"
   icon_pack: fas
   icon: file-pdf

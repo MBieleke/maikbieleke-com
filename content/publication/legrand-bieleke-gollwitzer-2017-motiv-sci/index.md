@@ -23,7 +23,7 @@ featured: true
 draft: false
 
 links:
-- name: "Publisher"
+- name: "Article"
   url: "https://psycnet.apa.org/doiLanding?doi=10.1037%2Fmot0000050"
   icon_pack: ai
   icon: closed-access

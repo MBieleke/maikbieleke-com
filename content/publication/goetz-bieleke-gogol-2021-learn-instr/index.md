@@ -26,7 +26,7 @@ featured: true
 draft: false
 
 links:
-- name: "Publisher"
+- name: "Article"
   url: "https://www.sciencedirect.com/science/article/abs/pii/S0959475219303226"
   icon_pack: ai
   icon: closed-access

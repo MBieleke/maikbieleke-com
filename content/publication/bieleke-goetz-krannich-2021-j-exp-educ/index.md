@@ -25,7 +25,7 @@ featured: true
 draft: false
 
 links:
-- name: "Publisher"
+- name: "Article"
   url: "https://www.tandfonline.com/doi/abs/10.1080/00220973.2021.1947764"
   icon_pack: ai
   icon: closed-access

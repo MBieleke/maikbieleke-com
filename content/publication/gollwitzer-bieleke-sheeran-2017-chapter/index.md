@@ -16,7 +16,7 @@ featured: true
 draft: false
 
 links:
-- name: "Publisher"
+- name: "Chapter"
   url: "https://www.taylorfrancis.com/chapters/edit/10.4324/9781315727448-35/enhancing-consumer-behaviour-implementation-intentions-peter-gollwitzer-maik-bieleke-paschal-sheeran"
   icon_pack: ai
   icon: closed-access

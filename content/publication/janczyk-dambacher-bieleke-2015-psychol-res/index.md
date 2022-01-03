@@ -22,7 +22,7 @@ featured: true
 draft: false
 
 links:
-- name: "Publisher"
+- name: "Article"
   url: "https://link.springer.com/article/10.1007/s00426-014-0549-5"
   icon_pack: ai
   icon: closed-access

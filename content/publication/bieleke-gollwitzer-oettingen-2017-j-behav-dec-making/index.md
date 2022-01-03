@@ -23,7 +23,7 @@ featured: true
 draft: false
 
 links:
-- name: "Publisher"
+- name: "Article"
   url: "https://onlinelibrary.wiley.com/doi/abs/10.1002/bdm.1975"
   icon_pack: ai
   icon: closed-access

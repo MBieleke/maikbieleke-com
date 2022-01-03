@@ -22,11 +22,11 @@ featured: true
 draft: false
 
 links:
-- name: "Publisher"
+- name: "Article"
   url: "https://www.frontiersin.org/articles/10.3389/fphys.2017.00736/full"
   icon_pack: ai
   icon: open-access
-- name: "PDF"
+- name: "PDF (Publisher)"
   url: "https://www.frontiersin.org/articles/10.3389/fphys.2017.00736/full"
   icon_pack: fas
   icon: file-pdf

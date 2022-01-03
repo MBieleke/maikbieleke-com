@@ -23,7 +23,7 @@ featured: true
 draft: false
 
 links:
-- name: "Publisher"
+- name: "Article"
   url: "https://econtent.hogrefe.com/doi/10.1026/1612-5010/a000336"
   icon_pack: ai
   icon: closed-access

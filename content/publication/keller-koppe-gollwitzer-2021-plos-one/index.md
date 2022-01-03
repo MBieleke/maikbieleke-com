@@ -18,11 +18,11 @@ featured: true
 draft: false
 
 links:
-- name: "Publisher"
+- name: "Article"
   url: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255207"
   icon_pack: ai
   icon: open-access
-- name: "PDF"
+- name: "PDF (Publisher)"
   url: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255207"
   icon_pack: fas
   icon: file-pdf

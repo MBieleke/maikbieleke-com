@@ -16,7 +16,7 @@ featured: true
 draft: false
 
 links:
-- name: "Publisher"
+- name: "Article"
   url: "https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/its-not-a-bug-its-boredom-effortful-willpower-balances-exploitation-and-exploration/3BD22469082A3BEE21B04C93707B3FF5"
   icon_pack: ai
   icon: closed-access

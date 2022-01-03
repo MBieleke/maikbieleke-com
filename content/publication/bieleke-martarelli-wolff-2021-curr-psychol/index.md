@@ -24,11 +24,11 @@ featured: true
 draft: false
 
 links:
-- name: "Publisher"
+- name: "Article"
   url: "https://link.springer.com/article/10.1007/s12144-021-02106-7"
   icon_pack: ai
   icon: open-access
-- name: "PDF"
+- name: "PDF (Publisher)"
   url: "https://link.springer.com/content/pdf/10.1007/s12144-021-02106-7.pdf"
   icon_pack: fas
   icon: file-pdf

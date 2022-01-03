@@ -18,7 +18,7 @@ featured: true
 draft: false
 
 links:
-- name: "Publisher"
+- name: "Chapter"
   url: "https://www.taylorfrancis.com/chapters/edit/10.4324/9781315523095-12/thought-automatic-action-strategic-spontaneous-action-control-planning-torsten-martiny-huenger-maik-bieleke-gabriele-oettingen-peter-gollwitzer"
   icon_pack: ai
   icon: closed-access

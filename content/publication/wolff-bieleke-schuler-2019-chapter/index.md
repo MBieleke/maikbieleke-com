@@ -16,7 +16,7 @@ featured: true
 draft: false
 
 links:
-- name: "Publisher"
+- name: "Chapter"
   url: "https://www.taylorfrancis.com/chapters/edit/10.4324/9781315167312-10/goal-striving-endurance-performance-wanja-wolff-maik-bieleke-julia-sch%C3%BCler"
   icon_pack: ai
   icon: closed-access

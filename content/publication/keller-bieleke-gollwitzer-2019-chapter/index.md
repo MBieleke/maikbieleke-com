@@ -23,7 +23,7 @@ featured: true
 draft: false
 
 links:
-- name: "Publisher"
+- name: "Chapter"
   url: "https://link.springer.com/chapter/10.1007/978-3-030-13788-5_2"
   icon_pack: ai
   icon: closed-access
