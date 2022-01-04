@@ -78,6 +78,7 @@ address_format: de
 highlight: true
 highlight_languages:
   - r
+highlight_style: "solarized-dark"
 math: false
 diagram: false
 privacy_pack: false

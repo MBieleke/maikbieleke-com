@@ -1,5 +1,5 @@
 ---
-title: If-Then Planning Scale (ITPS)
+title: The If-Then Planning Scale (ITPS)
 subtitle: User's Manual
 summary: The AEQ-S measures enjoyment, hope, pride, anger, anxiety, shame, hoplessness, and boredom in class-, learning-, and test-related academic settings. 
 tags:
@@ -36,18 +36,17 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 ---
 
-The **if-Then Planning Scale (ITPS)** is a theory-grounded and validated eight-item instrument for assessing the propensity to engage in if-then planning. It measures whether an individual identifies opportunities and obstacles for goal-directed behavior.
+{{< toc >}}
 
-# Table of Contents
-1. [Administering and Scoring the ITPS](#Administering-and-Scoring-the-ITPS)
-2. [Instructions](##Instructions)
-3. [Reference](##Reference)
-<!-- 4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom) -->
+## Introduction 
 
-# Administering and Scoring the ITPS
+The **If-Then Planning Scale (ITPS)** is a theory-grounded and validated eight-item instrument for assessing the propensity to engage in if-then planning. It measures whether an individual identifies opportunities and obstacles for goal-directed behavior.
+
+
+## Administering and Scoring the ITPS
 
 The ITPS can be administered in an online or a paper-and-pencil format and will take about 1-2 minutes. Participants rate each of the eight items on a 7-point Likert scale from 1 (*strongly disagree*) to 7 (*strongly agree*). An overall score is then obtained by averaging across all eight items. 
 
@@ -60,6 +59,10 @@ As if-then planning effects are most important when goals are difficult and impo
 
 The instruction can also be adapted to specific goals (e.g., loosing weight, studying harder) if the focus is on if-then planning in a particular domain. 
 
+```r
+s
+```
+
 ## Reference
 
-
+{{< cite page="/publication/bieleke-keller-2021-pers-indiv-differ" view="1" >}}
