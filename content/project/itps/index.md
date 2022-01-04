@@ -2,6 +2,7 @@
 title: "If-Then Planning Scale (ITPS): User's Manual"
 subtitle: ''
 summary: The AEQ-S measures enjoyment, hope, pride, anger, anxiety, shame, hoplessness, and boredom in class-, learning-, and test-related academic settings. 
+
 tags:
 - If-then planning
 - implementation intentions
@@ -38,6 +39,7 @@ image:
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
+{{< cite page="/publication/bieleke-keller-2021-pers-indiv-differ" view="1" >}}
 
 {{< toc >}}
 
@@ -72,4 +74,4 @@ This instruction can also be adapted to specific goals (e.g., loosing weight, st
 | 8 | I plan ways in which I can deal with difficulties. |
 
 ## Reference
-{{< cite page="/publication/bieleke-keller-2021-pers-indiv-differ" view="1" >}}
+
