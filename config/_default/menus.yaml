@@ -24,9 +24,14 @@ main:
     weight: 20
     parent: "publications"
 
-  # - name: "Questionnaires"
-  #   url: "questionnaires"
-  #   weight: 30
+  - name: "Questionnaires"
+    identifier: "questionnaires"
+    weight: 30
+  - name: "If-Then Planning Scale (ITPS)"
+    parent: "questionnaires"
+    url: "project/itps"
+    weight: 30
+
   # - name: Talks
   #   url: '#talks'
   #   weight: 40

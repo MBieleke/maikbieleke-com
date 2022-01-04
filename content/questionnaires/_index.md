@@ -1,9 +1,9 @@
 ---
 # Page title
-title: AEQ-S User Manual
+title: Questionnaires
 
 # Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
-linktitle: AEQ-S User Manual
+linktitle: Questionnaires
 
 # Page summary for search engines.
 summary: This manual describes how to use the AEQ-S.

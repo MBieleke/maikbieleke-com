@@ -1,10 +1,10 @@
 ---
-title: Achievement Emotions Questionnaire - Short (AEQ-S)
+title: If-Then Planning Scale (ITPS)
 summary: The AEQ-S measures enjoyment, hope, pride, anger, anxiety, shame, hoplessness, and boredom in class-, learning-, and test-related academic settings. 
 tags:
 - AEQ-S
 date: "2021-12-01T00:00:00Z"
-draft: true
+draft: false
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -36,17 +36,10 @@ url_video: ""
 slides: example
 ---
 
+## Title Page
+
 The Achievement Emotions Questionnaire (AEQ) is one of the most widely used instruments for assessing achievement emotions. This new short version allows researchers to assess the same set of achievement emotions with considerably fewer items.
 
 The AEQ-S has been published in [Contemporary Educational Psychology](https://www.sciencedirect.com/science/article/abs/pii/S0361476X20301053). 
 
-Please see [this]({{< relref "/course" >}})
-
-{{< spoiler text="Click to view the spoiler" >}}
-You found me!
-{{< /spoiler >}}
-
-{{< cite page="/publication/bieleke-gogol-goetz-2021-contemp-educ-psychol" view="4" >}}
-
-{{< cta cta_text="Do something" cta_link="/" cta_new_tab="false" cta_alt_text="Alternative action" cta_alt_link="/" cta_alt_new_tab="false" >}}
 
