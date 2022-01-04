@@ -32,7 +32,7 @@ education:
   - course: PhD in Psychology
     institution: Graduate School of Decision Sciences
     year: "2012-2015"
-  - course: Fast Track Psychology
+  - course: Fast Track Program
     institution: University of Konstanz
     year: "2011-2012"
   - course: BSc in Economics
