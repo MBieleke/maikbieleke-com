@@ -48,7 +48,7 @@ The **If-Then Planning Scale (ITPS)** is a theory-grounded and empirically valid
 
 ## Administering and Scoring the ITPS
 
-The ITPS can be administered in an online or a paper-and-pencil format and completing it will take about 1-2 minutes. The items should be presented in random order to avoid order effects. Participants rate each of the eight items on a 7-point Likert scale from 1 (*strongly disagree*) to 7 (*strongly agree*). An overall score is obtained by averaging a participant's ratings across all eight items. 
+The ITPS can be administered in an online or in a paper-and-pencil format. Completing it takes about 1-2 minutes. The items should be presented in random order to avoid order effects. Participants rate each of the eight items on a 7-point Likert scale from 1 (*strongly disagree*) to 7 (*strongly agree*). An overall score is obtained by averaging a participant's ratings across all eight items. 
 
 ### Instructions 
 
