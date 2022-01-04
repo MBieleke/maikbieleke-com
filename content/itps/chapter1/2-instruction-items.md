@@ -1,7 +1,7 @@
 ---
 title: Instruction and Items
 date: 2019-05-05
-type: docs
+type: book
 ---
 
 The ITPS has been developed as a domain-general measure of if-then planning. Accordingly, the instruction refers to goals in general and specifies that participants should think about difficult and important goals (as only these goals require if-then planning to facilitate goal attainment):
