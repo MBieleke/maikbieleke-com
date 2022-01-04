@@ -24,15 +24,15 @@ main:
     weight: 20
     parent: "publications"
 
-  - name: "Questionnaires"
-    url: "questionnaires"
-    weight: 30
-  - name: Talks
-    url: '#talks'
-    weight: 40
-  - name: Education
-    url: 'education'
-    weight: 40
+  # - name: "Questionnaires"
+  #   url: "questionnaires"
+  #   weight: 30
+  # - name: Talks
+  #   url: '#talks'
+  #   weight: 40
+  # - name: Education
+  #   url: 'education'
+  #   weight: 40
   - name: Contact
     url: '#contact'
     weight: 50
