@@ -22,6 +22,7 @@ interests:
 - Performance
 - Self-control
 - Behavior change
+- Implementation intentions
 - Achievement emotions
 - Boredom
 
@@ -30,13 +31,16 @@ education:
   courses:
   - course: PhD in Psychology
     institution: Graduate School of Decision Sciences
-    year: 2015
+    year: "2012-2015"
+  - course: Fast Track Program Psychology
+    institution: University of Konstanz
+    year: "2011-2012"
   - course: BSc in Economics
     institution: University of Konstanz
-    year: 2011
+    year: "2008-2011"
   - course: BSc in Psychology
     institution: University of Konstanz
-    year: 2010
+    year: "2007-2010"
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -75,6 +79,7 @@ highlight_name: true
 # {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/# demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 ---
 
-I'm a senior researcher at the University of Konstanz [Sport Psychology Lab](https://www.sportwissenschaft.uni-konstanz.de/schueler/). My research interests pertain to why people (fail to) attain their goals and what they can do about that. Moreover, I'm focusing on understanding the interplay of physiological and psychological processes in goal-directed behavior. I currently address these questions from the perspective of physical activity promotion and the regulation of sports performance across lab and life settings. 
+I am a senior researcher in the [Sport Psychology Lab](https://www.sportwissenschaft.uni-konstanz.de/schueler/) at the University of Konstanz. My interest lies in understanding the role of effort in human behavior, with a particular interest in factors that make behavior effortful (e.g., boredom) and self-control strategies that redcue effort (e.g., implementation intentions). To this end, I draw upon various research (e.g., lab experiments, field surveys) and quantitative approaches (e.g., mixed effect models, psychometric networks, Bayesian statistics). 
+
 
 
