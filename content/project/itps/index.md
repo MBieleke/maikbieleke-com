@@ -60,7 +60,10 @@ As if-then planning effects are most important when goals are difficult and impo
 The instruction can also be adapted to specific goals (e.g., loosing weight, studying harder) if the focus is on if-then planning in a particular domain. 
 
 ```r
-s
+mean <- c(1, 2, 3, 4)
+for(i in 1:12) {
+  apply(1, 2, mean)
+}>
 ```
 
 ## Reference
