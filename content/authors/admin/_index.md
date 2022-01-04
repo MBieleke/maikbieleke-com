@@ -79,7 +79,7 @@ highlight_name: true
 # {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/# demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 ---
 
-I am a senior researcher in the [Sport Psychology Lab](https://www.sportwissenschaft.uni-konstanz.de/schueler/) at the University of Konstanz. My interest lies in understanding the role of effort in human behavior, with a particular interest in factors that make behavior effortful (e.g., boredom) and self-control strategies that redcue effort (e.g., implementation intentions). To this end, I draw upon various research (e.g., lab experiments, field surveys) and quantitative approaches (e.g., mixed effect models, psychometric networks, Bayesian statistics). 
+I am a senior researcher in the [Sport Psychology Lab](https://www.sportwissenschaft.uni-konstanz.de/schueler/) at the University of Konstanz. My research interest lies in understanding the role of effort in human behavior, with a particular focus on factors that make behavior effortful (e.g., boredom) and self-control strategies that redcue effort (e.g., implementation intentions). I combine powerful research designs (e.g., lab experiments, panel surveys) with advanced data analysis tools (e.g., mixed models, psychometric networks, Bayesian statistics) to inform theory and develop applied interventions. 
 
 
 
