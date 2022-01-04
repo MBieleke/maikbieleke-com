@@ -75,6 +75,6 @@ highlight_name: true
 # {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/# demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 ---
 
-I'm a senior researcher at the University of Konstanz [Sport Psychology Lab](https://www.sportwissenschaft.uni-konstanz.de/schueler/). My research interest pertains to how people (fail to) attain their goals, and how various physiological and psychological processes interact in goal-directed behavior. I currently address these questions with a focus on physical activity and sports behavior in lab and life settings. 
+I'm a senior researcher at the University of Konstanz [Sport Psychology Lab](https://www.sportwissenschaft.uni-konstanz.de/schueler/). My research interests pertain to why people (fail to) attain their goals and what they can do about that. Moreover, I'm focusing on understanding the interplay of physiological and psychological processes in goal-directed behavior. I currently address these questions from the perspective of physical activity promotion and the regulation of sports performance across lab and life settings. 
 
 
