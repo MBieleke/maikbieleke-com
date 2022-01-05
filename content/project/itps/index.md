@@ -8,7 +8,6 @@ tags:
 - self-control
 date: "2022-01-04T00:00:00Z"
 draft: false
-toc: true
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -42,7 +41,10 @@ image:
 # slides: example
 ---
 
-{{< toc >}}
+***
+{{<toc>}}
+***
+
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/" target="_blank"><img alt="Creative Commons License" style="float: right; border-width:0; margin-left: 10px; margin-top: 0px; amrgin-bottom: 0px" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>The If-Then Planning Scale (ITPS) is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/" target="_blank">Creative Commons Attribution 4.0 International License</a>. This license grants reusers the permission to copy, distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the developers of the scale. In case of the ITPS, the correct citation is:
 
@@ -81,5 +83,4 @@ This instruction can also be adapted to specific goals (e.g., loosing weight, st
 | 8 | I plan ways in which I can deal with difficulties. |
 
 ## Reference
-
 {{< cite page="/publication/bieleke-keller-2021-pers-indiv-differ" view="1" >}}
