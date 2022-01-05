@@ -13,23 +13,23 @@ main:
     identifier: "publications"
   - name: All
     url: 'publication'
-    weight: 20
+    weight: 21
     parent: "publications"
   - name: Articles
     url: 'articles'
-    weight: 20
+    weight: 22
     parent: "publications"
   - name: Preprints
     url: 'preprint'
-    weight: 20
+    weight: 23
     parent: "publications"
 
-  # - name: "Questionnaires"
-  #   identifier: "questionnaires"
-  #   weight: 30
+  - name: "Questionnaires"
+    identifier: "questionnaires"
+    weight: 30
   - name: "If-Then Planning Scale (ITPS)"
     parent: "questionnaires"
-    url: "itps"
+    url: "project/itps"
     weight: 30
 
   # - name: Q
