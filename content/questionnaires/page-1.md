@@ -1,12 +1,14 @@
 ---
 # Page title
-title: Background
+title: Achievement Emotions Questionnaire
+
+subtitle: User's Manual
 
 # Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
-linktitle: If-Then Planning Scale 2
+linktitle: AEQ
 
 # Page summary for search engines.
-summary: Blah, blah, blah...
+summary: Here we introduce the AEQ-S.
 
 # Date page published
 date: 2018-09-09
@@ -18,8 +20,5 @@ type: book
 weight: 1
 ---
 
-## Test
-ewdwefd
 
-### sfda
-sadd
+## Copyright
