@@ -28,11 +28,19 @@ image:
 #   name: Get Manual
 #   url: https://twitter.com/georgecushen
 # url_code: ""
-# url_pdf: "uploads/2021_Bieleke-etal_ShortAEQ.pdf"
+# url_pdf: "uploads/itps_de.pdf"
 # url_pdf: "uploads/2021_Bieleke-etal_ShortAEQ.pdf"
 # url_slides: ""
 # url_video: ""
-
+links:
+- name: "ITPS (English)"
+  url: "uploads/itps_en.pdf"
+  icon_pack: fas
+  icon: file-pdf
+- name: "ITPS (German)"
+  url: "uploads/itps_de.pdf"
+  icon_pack: fas
+  icon: file-pdf
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
@@ -46,7 +54,7 @@ image:
 ***
 
 # License and citation
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/" target="_blank"><img alt="Creative Commons License" style="float: right; border-width:0; margin-left: 10px; margin-top: 0px; amrgin-bottom: 0px" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>The If-Then Planning Scale (ITPS) is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/" target="_blank">Creative Commons Attribution 4.0 International License</a>. This license grants reusers the permission to copy, distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the developers of the scale. In case of the ITPS, the correct citation is:
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/" target="_blank"><img alt="Creative Commons License" style="float: right; border-width:0; margin-left: 10px; margin-top: 0px; amrgin-bottom: 0px" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>The If-Then Planning Scale (ITPS) is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/" target="_blank">Creative Commons Attribution 4.0 International License</a>. This license grants reusers the permission to copy, distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the developers of the scale. The correct citation of the ITPS is:
 
 Bieleke, M., & Keller, L. (2021). Individual differences in if-then planning: Insights from the development and application of the If-Then Planning Scale (ITPS). *Personality and Individual Differences*, *170*, Article 110500. https://doi.org/10.1016/j.paid.2020.110500
 
@@ -59,7 +67,7 @@ The **If-Then Planning Scale (ITPS)** is a theory-grounded and empirically valid
 
 ## Administering and Scoring the ITPS
 
-The ITPS can be administered in an online or in a paper-and-pencil format. Completing it takes about 1-2 minutes. The items should be presented in random order to avoid order effects. Participants rate each of the eight items on a 7-point Likert scale from 1 (*strongly disagree*) to 7 (*strongly agree*). An overall score is obtained by averaging a participant's ratings across all eight items. 
+The ITPS can be administered in an online or in a paper-and-pencil format. Completing it takes about 1-2 minutes. The items might be presented in random order to avoid order effects. Participants rate each of the eight items on a 7-point Likert scale from 1 (*strongly disagree*) to 7 (*strongly agree*). An overall score is obtained by averaging a participant's ratings across all eight items. 
 
 ### Instructions 
 
@@ -81,6 +89,9 @@ This instruction can also be adapted to specific goals (e.g., loosing weight, st
 | 6 | I plan the concrete actions I will take toward my goal. |
 | 7 | I plan how to protect myself from distractions. |
 | 8 | I plan ways in which I can deal with difficulties. |
+
+
+### ANalysis
 
 ## Reference
 {{< cite page="/publication/bieleke-keller-2021-pers-indiv-differ" view="1" >}}
