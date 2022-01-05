@@ -32,6 +32,9 @@ main:
     url: "project/itps"
     weight: 30
 
+  - name: "Quests"
+    url: "/courses/"
+    weight: 40
   # - name: Q
   #   parent: "questionnaires"
   #   url: 'itps'
