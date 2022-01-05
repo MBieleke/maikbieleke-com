@@ -39,13 +39,13 @@ image:
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-{{< cite page="/publication/bieleke-keller-2021-pers-indiv-differ" view="1" >}}
 
 {{< toc >}}
 
-## License and Usage
+## License
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a> The If-Then Planning Scale (ITPS) is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. This grants reusers the permission to copy, distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the developers of the scale:
 
-
+Bieleke, M., & Keller, L. (2021). Individual differences in if-then planning: Insights from the development and application of the If-Then Planning Scale (ITPS). *Personality and Individual Differences*, *170*, 110500. https://doi.org/10.1016/j.paid.2020.110500
 
 ## Background 
 
@@ -79,3 +79,4 @@ This instruction can also be adapted to specific goals (e.g., loosing weight, st
 
 ## Reference
 
+{{< cite page="/publication/bieleke-keller-2021-pers-indiv-differ" view="1" >}}
