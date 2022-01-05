@@ -33,7 +33,7 @@ main:
     weight: 30
 
   - name: "Quests"
-    url: "/courses/"
+    url: "/coursesss/"
     weight: 40
   # - name: Q
   #   parent: "questionnaires"
