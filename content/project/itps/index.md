@@ -8,6 +8,7 @@ tags:
 - self-control
 date: "2022-01-04T00:00:00Z"
 draft: false
+toc: true
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

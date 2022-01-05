@@ -29,12 +29,9 @@ main:
     weight: 30
   - name: "If-Then Planning Scale (ITPS)"
     parent: "questionnaires"
-    url: "project"
+    url: "project/itps"
     weight: 30
 
-  - name: "Quests"
-    url: "/questionnaires/"
-    weight: 40
   # - name: Q
   #   parent: "questionnaires"
   #   url: 'itps'
