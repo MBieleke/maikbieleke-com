@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Projects
-subtitle: ''
+title: Questionnaires
+subtitle: '</a> All questionnaires are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. This license grants reusers the permission to copy, distribute, remix, adapt, and build upon the questionnaires in any medium or format, so long as attribution is given to the developers of the scale.'
 
 content:
   # Page type to display. E.g. project.
@@ -24,13 +24,13 @@ content:
   # To show all items, set `tag` to "*".
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
-  filter_button:
-  - name: All
-    tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  # filter_button:
+  # - name: All
+  #   tag: '*'
+  # - name: Deep Learning
+  #   tag: Deep Learning
+  # - name: Other
+  #   tag: Demo
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -44,5 +44,5 @@ design:
   view: 5
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows: false
+  flip_alt_rows: true
 ---

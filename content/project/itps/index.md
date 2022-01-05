@@ -1,7 +1,7 @@
 ---
-title: "If-Then Planning Scale (ITPS): User's Manual"
-subtitle: ''
-summary: The AEQ-S measures enjoyment, hope, pride, anger, anxiety, shame, hoplessness, and boredom in class-, learning-, and test-related academic settings. 
+title: "If-Then Planning Scale (ITPS)"
+subtitle: 
+summary: The If-Then Planning Scale by Bieleke & Keller (2021) is a theory-grounded and empirically validated instrument for assesssing an individual's propensity to think about when, where, and how to act towards a goal.
 
 tags:
 - If-then planning
@@ -14,8 +14,10 @@ draft: false
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  placement: 2
+  caption: 
   focal_point: Smart
+  preview_only: true
 
 # links:
 # - icon: twitter
@@ -39,6 +41,8 @@ image:
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
+
+The If-Then Planning Scale by Bieleke & Keller (2021) is a theory-grounded and empirically validated scale for assesssing an individual's propensity to think about when, where, and how to act towards a goal.
 
 {{< toc >}}
 
