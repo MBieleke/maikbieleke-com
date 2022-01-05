@@ -54,7 +54,7 @@ links:
 ***
 
 # License and citation
-The If-Then Planning Scale (ITPS) is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). It grants reusers the permission to copy, distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the developers of the scale. The correct citation of the ITPS is:
+The If-Then Planning Scale (ITPS) is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). It grants reusers the permission to copy, distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the developers of the scale. Please cite the ITPS as follows:
 
 Bieleke, M., & Keller, L. (2021). Individual differences in if-then planning: Insights from the development and application of the If-Then Planning Scale (ITPS). *Personality and Individual Differences*, *170*, Article 110500. https://doi.org/10.1016/j.paid.2020.110500
 
