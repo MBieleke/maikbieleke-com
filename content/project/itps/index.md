@@ -1,8 +1,7 @@
 ---
 title: "If-Then Planning Scale (ITPS)"
 subtitle: 
-summary: The If-Then Planning Scale by Bieleke & Keller (2021) is a theory-grounded and empirically validated instrument for assesssing an individual's propensity to think about when, where, and how to act towards a goal.
-
+summary: The If-Then Planning Scale is a theory-grounded and empirically validated instrument for assesssing the propensity to think about when, where, and how to act towards a goal.
 tags:
 - If-then planning
 - implementation intentions
@@ -42,14 +41,13 @@ image:
 # slides: example
 ---
 
-The If-Then Planning Scale by Bieleke & Keller (2021) is a theory-grounded and empirically validated scale for assesssing an individual's propensity to think about when, where, and how to act towards a goal.
-
 {{< toc >}}
-
 ## License
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a> The If-Then Planning Scale (ITPS) is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. This grants reusers the permission to copy, distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the developers of the scale:
+The If-Then Planning Scale (ITPS) is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. This license grants reusers the permission to copy, distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the developers of the scale. In case of the ITPS, the correct citation is:
 
 Bieleke, M., & Keller, L. (2021). Individual differences in if-then planning: Insights from the development and application of the If-Then Planning Scale (ITPS). *Personality and Individual Differences*, *170*, 110500. https://doi.org/10.1016/j.paid.2020.110500
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
 
 ## Background 
 
