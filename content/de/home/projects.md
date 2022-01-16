@@ -9,8 +9,9 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Questionnaires
-subtitle: '</a> All questionnaires are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. This license grants reusers the permission to copy, distribute, remix, adapt, and build upon the questionnaires in any medium or format, so long as attribution is given to the developers of the scale.'
+title: Fragebögen
+subtitle: '</a> Alle Fragebögen unterliegen einer <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International Lizenz</a>. 
+Diese Lizenz erlaubt es, die Fragebögen bei Weiterverwendung in jedem Medium oder Format zu kopieren, zu verbreiten, neu zusammenzustellen, anzupassen und zu erweitern, solange die Entwickler der Skala genannt werden.'
 
 content:
   # Page type to display. E.g. project.

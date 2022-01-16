@@ -1,6 +1,6 @@
 ---
 # This index file is important for the correct display of the site.
-title: "Landing Page"
+title: "Artikel"
 summary: ''
 date: "2019-01-01T00:00:00Z"
 type: "widget_page"
