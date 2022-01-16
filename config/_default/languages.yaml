@@ -6,17 +6,42 @@
 en:
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
-#zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+de:
+ languageCode: de
+ contentDir: content/de
+ title: Maik Bieleke
+ params:
+   description: ''
+ menu:
+   main:
+    - name: Startseite
+      url: '#about'
+      weight: 10
+    - name: Publikationen
+      weight: 20
+      identifier: "publications"
+    - name: Alle
+      url: 'publication'
+      weight: 21
+      parent: "publications"
+    - name: Artikel
+      url: 'articles'
+      weight: 22
+      parent: "publications"
+    - name: Preprints
+      url: 'preprint'
+      weight: 23
+      parent: "publications"
+    - name: "Fragebögen"
+      identifier: "questionnaires"
+      weight: 30
+    - name: "If-Then Planning Scale (ITPS)"
+      parent: "questionnaires"
+      url: "project/itps"
+      weight: 30
+    - name: Kontakt
+      url: '#contact'
+      weight: 50
