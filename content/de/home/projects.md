@@ -10,8 +10,7 @@ headless: true
 weight: 65
 
 title: Fragebögen
-subtitle: '</a> Alle Fragebögen unterliegen einer <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International Lizenz</a>. 
-Diese Lizenz erlaubt es, die Fragebögen bei Weiterverwendung in jedem Medium oder Format zu kopieren, zu verbreiten, neu zusammenzustellen, anzupassen und zu erweitern, solange die Entwickler der Skala genannt werden.'
+subtitle: '</a> Alle Fragebögen unterliegen einer <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International Lizenz</a>.'
 
 content:
   # Page type to display. E.g. project.

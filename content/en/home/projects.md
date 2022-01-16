@@ -10,7 +10,7 @@ headless: true
 weight: 65
 
 title: Questionnaires
-subtitle: '</a> All questionnaires are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. This license grants reusers the permission to copy, distribute, remix, adapt, and build upon the questionnaires in any medium or format, so long as attribution is given to the developers of the scale.'
+subtitle: '</a> All questionnaires are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.'
 
 content:
   # Page type to display. E.g. project.
