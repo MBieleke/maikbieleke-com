@@ -34,44 +34,32 @@ links:
 {{% toc %}}
 ***
 
-# Lizenz und Zitation
+## Lizenz und Zitation
 Die If-Then Planning Scale (ITPS) ist unter einer [Creative Commons Attribution 4.0 International Lizenz](http://creativecommons.org/licenses/by/4.0/) lizensiert. Die Entwickler der Skala sind:
 
 Bieleke, M., & Keller, L. (2021). Individual differences in if-then planning: Insights from the development and application of the If-Then Planning Scale (ITPS). *Personality and Individual Differences*, *170*, Article 110500. https://doi.org/10.1016/j.paid.2020.110500
 
 
 
-## Background 
+## Hintergrund 
 
-The If-Then Planning Scale (ITPS) is a theory-grounded and empirically validated instrument for assessing individual differences in the propensity to make if-then plans in order to facilitate one's goal attainment (e.g., "If I go to the cafeteria, then I will I grab an apple" when the goal is to eat healthier). It consists of eight items that tap into two important aspects of implementation intentions: whether an individual identifies critical obstacles and opportunities (e.g., going to the cafeteria) and specifies corresponding goal-directed behaviors (e.g., grabbing an apple).
+Die If-Then Planning Scale (ITPS) ist ein theoretisch fundiertes und empirisch validiertes Instrument zur Erfassung individueller Unterschiede in der Neigung, die eigene Zielerreichung durch das Fassen von Wenn-Dann-Plänen zu erleichtern (z.B. "Wenn ich in die Cafeteria gehe, werde ich einen Apfel essen" beim Ziel einer gesünderen Ernährung). Die Skala besteht aus acht Items, die zwei wichtige Aspekte der Umsetzungsabsichten erfassen: ob eine Person kritische Hindernisse und Gelegenheiten identifiziert (z.B. in die Cafeteria zu gehen) und entsprechende zielgerichtete Verhaltensweisen spezifiziert (z.B. einen Apfel zu essen).
 
-## Usage
+## Nutzung
 
 ### Administration
 
-The ITPS can be administered in an online or in a paper-and-pencil format. Completing it takes about 1-2 minutes. The items might be presented in random order to avoid order effects. Participants rate each of the eight items on a 7-point Likert scale from 1 (*strongly disagree*) to 7 (*strongly agree*).
+Die ITPS kann online oder in Papierform genutzt werden. Das Ausfüllen des Fragebogens dauert etwa 1-2 Minuten. Die Items können in zufälliger Reihenfolge präsentiert werden, um Reihenfolgeeffekte zu vermeiden. Die Teilnehmer bewerten jedes der acht Items auf einer 7-stufigen Likert-Skala von 1 (*stimme überhaupt nicht zu*) bis 7 (*stimme voll und ganz zu*).
 
-### Instruction and items
+### Instruktion
 
-The ITPS has been developed as a domain-general measure of if-then planning. Accordingly, the instruction refers to goals in general and specifies that participants should think about difficult and important goals (as only these goals require if-then planning to facilitate goal attainment):This instruction can also be adapted to specific goals (e.g., loosing weight, studying harder) if the focus is on if-then planning in a particular domain. 
+Die ITPS wurde als domänenübergreifendes Maß für die Neigung zum Fassen von Wenn-Dann-Plänen entwickelt. Dementsprechend bezieht sich die Instruktion auf Ziele im Allgemeinen und nicht auf ein spezifisches Ziel. Der Fokus liegt dabei auf schwierigen und wichtigen Zielen, da nur bei solchen Zielen die Zielerreichung durch Wenn-Dann-Pläne verbessert werden kann. Die Instruktion kann grundsätzlich auch an spezifische Ziele angepasst werden (z.B. Gesundheitsziel, Lernziele), wenn der Schwerpunkt auf Wenn-Dann-Plänen in einem bestimmten Bereich liegt. 
 
-*The following statements relate to how you approach important and difficult goals in general. Refer to goals that you find worthwhile and rewarding, but which you cannot easily achieve and which really challenge you. Once you have appropriate goals in mind, read each statement and indicate how much it applies to you.*
+### Auswertung und Interpretation
 
-| # | Item |
-| - | - |
-| 1 | *I think about when and where decisive moments for the achievement of my goals could occur.* |
-| 2 | *I think about chances and possibilities that I could use.* |
-| 3 | *I envisage what obstacles could arise.* |
-| 4 | *I am concerned with what setbacks to expect.* |
-| 5 | *I plan how best to achieve my goals.* |
-| 6 | *I plan the concrete actions I will take toward my goal.* |
-| 7 | *I plan how to protect myself from distractions.* |
-| 8 | *I plan ways in which I can deal with difficulties.* |
+Ein Gesamtwert ergibt sich aus dem Durchschnitt der Antworten eines Teilnehmers auf alle acht Items. Alle Items sind in der gleichen Richtung formuliert, so dass keine Umkodierung erforderlich ist. Ein höherer Wert auf der ITPS Skala weist auf eine größere Neigung zur Verwendung von Wenn-Dann-Plänen für die Zielerreichung hin.
 
-### Scoring and interpretation
+Beachten Sie, dass sich die ITPS zwar aus verschiedenen Subskalen zusammensetzt (z.B. Nachdenken über mögliche Hindernisse), die Werte auf den Subskalen jedoch nur für explorative Analysen verwendet werden sollten. General wird empfohlen, den Gesamtwert der ITPS Skala zu interpretieren. 
 
-An overall score is obtained by averaging a participant's ratings across all eight items. All items are formulated in the same direction so that no reverse-coding is neccessary. A higher ITPS score indicates a greater propensity to engage in if-then planning.
-
-
-## Reference
+## Weiterführende Literatur
 {{< cite page="/publication/bieleke-keller-2021-pers-indiv-differ" view="1" >}}
