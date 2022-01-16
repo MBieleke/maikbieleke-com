@@ -35,7 +35,7 @@ links:
 ***
 
 # License and citation
-The If-Then Planning Scale (ITPS) is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). It grants reusers the permission to copy, distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the developers of the scale. Please cite the ITPS as follows:
+The If-Then Planning Scale (ITPS) is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). It grants reusers the permission to copy, distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the developers of the scale:
 
 Bieleke, M., & Keller, L. (2021). Individual differences in if-then planning: Insights from the development and application of the If-Then Planning Scale (ITPS). *Personality and Individual Differences*, *170*, Article 110500. https://doi.org/10.1016/j.paid.2020.110500
 
@@ -43,8 +43,7 @@ Bieleke, M., & Keller, L. (2021). Individual differences in if-then planning: In
 
 ## Background 
 
-The If-Then Planning Scale (ITPS) is a theory-grounded and empirically validated instrument for assessing individual differences in the propensity to make if-then plans in order to facilitate one's goal attainment (e.g., "If I go to the cafeteria, then I will I grab an apple" when the goal is to eat healthier). The ITPS is conceputally grounded in Gollwitzer's (1999) implemenentation intention theory. It consists of eight items that tap into two important aspects of implementation intentions: whether an individual identifies critical obstacles and opportunities (i.e., the if-part) and specifies corresponding goal-directed behaviors (i.e., the then-part).
-
+The If-Then Planning Scale (ITPS) is a theory-grounded and empirically validated instrument for assessing individual differences in the propensity to make if-then plans in order to facilitate one's goal attainment (e.g., "If I go to the cafeteria, then I will I grab an apple" when the goal is to eat healthier). It consists of eight items that tap into two important aspects of implementation intentions: whether an individual identifies critical obstacles and opportunities (e.g., going to the cafeteria) and specifies corresponding goal-directed behaviors (e.g., grabbing an apple).
 
 ## Usage
 
