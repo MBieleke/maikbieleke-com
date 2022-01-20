@@ -1,7 +1,7 @@
 ---
 title: "The WOOP strategy: Four steps to goal attainment"
 
-event: Conference of the Thurgau University of Teacher Education (PHTG) and the Office of Elementary Education
+event: Conference of the Thurgau University of Teacher Education (PHTG) and the Amt für Volksschule
 event_url: https://www.phtg.ch/hochschule/die-phtg/aktuell/veranstaltungen/thementagung-phtgav-2022/
 
 location: Kreuzlingen, Switzerland
@@ -12,7 +12,7 @@ location: Kreuzlingen, Switzerland
 #   postcode: '94305'
 #   country: United States
 
-summary: Public lecture at the conference of the Thurgau University of Teacher Education (PHTG) and the Office for Elementary School 2022
+summary: Public lecture at the conference of the Thurgau University of Teacher Education (PHTG) and the Amt für Volksschule 2022
 abstract: "People find it difficult to achieve goals for many reasons. Therefore, effective strategies to support goal striving are important. In this presentation, I will present the self-regulation strategy WOOP, which can improve the achievement of goals in many areas of life. Empirical research on WOOP will be discussed as well as the process of performing WOOP. The presentation concludes the workshop jointly organized by Dr. Maik Bieleke and Dr. Wanja Wolff 'The secret of successful learning: In the interplay of motivation & will?'"
 
 # Talk start and end times.
