@@ -19,11 +19,11 @@ image:
   preview_only: true
 
 links:
-- name: "ITPS (English)"
+- name: "ITPS (Englisch)"
   url: "uploads/itps_en.pdf"
   icon_pack: fas
   icon: file-pdf
-- name: "ITPS (German)"
+- name: "ITPS (Deutsch)"
   url: "uploads/itps_de.pdf"
   icon_pack: fas
   icon: file-pdf

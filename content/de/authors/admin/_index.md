@@ -6,7 +6,7 @@ title: Maik Bieleke
 superuser: true
 
 # Role/position/tagline
-role: Forscher in der Psychologie
+role: Wissenschaftler und Psychologe
 
 # Organizations/Affiliations to show in About widget
 organizations:

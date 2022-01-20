@@ -1,5 +1,5 @@
 ---
-title: 📢 New Preprint
+title: New Preprint
 subtitle: ''
 
 # Summary for listings and search engines
