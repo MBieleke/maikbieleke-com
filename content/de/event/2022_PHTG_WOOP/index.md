@@ -35,13 +35,13 @@ image:
   focal_point: Right
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+- icon: file-pdf
+  icon_pack: fas
+  name: Folien
+  url: "uploads/2022_PHTG_WOOP.pdf"
 url_code: ""
 url_pdf: ""
-url_slides: "uploads/2022_PHTG_WOOP.pdf"
+url_slides: ""
 url_video: ""
 
 # Markdown Slides (optional).

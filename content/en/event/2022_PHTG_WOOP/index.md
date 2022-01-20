@@ -1,10 +1,10 @@
 ---
-title: "Die WOOP-Strategie: In vier Schritten zum Ziel"
+title: "The WOOP strategy: Four steps to goal attainment"
 
-event: Thementagung der Pädagogischen Hochschule Thurgau (PHTG) und dem Amt für Volksschule
+event: Conference of the Thurgau University of Teacher Education (PHTG) and the Office of Elementary Education
 event_url: https://www.phtg.ch/hochschule/die-phtg/aktuell/veranstaltungen/thementagung-phtgav-2022/
 
-location: Kreuzlingen, Schweiz
+location: Kreuzlingen, Switzerland
 # address:
 #   street: 450 Serra Mall
 #   city: Stanford
@@ -12,13 +12,13 @@ location: Kreuzlingen, Schweiz
 #   postcode: '94305'
 #   country: United States
 
-summary: Vortrag im Rahmen der Thementagung der Pädagogischen Hochschule Thurgau (PHTG) und dem Amt für Volksschule 2022
-abstract: "Der Vortrag fand ihm Rahmen des Workshops 'Das Geheimnis erfolgreichen Lernens: im Zusammenspiel von Motivation & Wille? statt. Thema war die Selbstregulationsstrategie WOOP, die das Erreichen von Zielen unterstützt.'"
+summary: Public lecture at the conference of the Thurgau University of Teacher Education (PHTG) and the Office for Elementary School 2022
+abstract: "People find it difficult to achieve goals for many reasons. Therefore, effective strategies to support goal striving are important. In this presentation, I will present the self-regulation strategy WOOP, which can improve the achievement of goals in many areas of life. Empirical research on WOOP will be discussed as well as the process of performing WOOP. The presentation concludes the workshop jointly organized by Dr. Maik Bieleke and Dr. Wanja Wolff 'The secret of successful learning: In the interplay of motivation & will?'"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2022-01-09T16:15:00Z"
-date_end: "2022-01-09T17:15:00Z"
+date: "2022-01-19T16:15:00Z"
+date_end: "2022-01-19T17:15:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -35,13 +35,13 @@ image:
   focal_point: Right
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+- icon: file-pdf
+  icon_pack: fas
+  name: Slides (German)
+  url: "uploads/2022_PHTG_WOOP.pdf"
 url_code: ""
 url_pdf: ""
-url_slides: "uploads/2022_PHTG_WOOP.pdf"
+url_slides: ""
 url_video: ""
 
 # Markdown Slides (optional).
