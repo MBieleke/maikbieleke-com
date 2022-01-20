@@ -1,37 +1,37 @@
 ---
-title: Example Talk
+title: "Die WOOP-Strategie: In vier Schritten zum Ziel"
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: Thementagung der Pädagogischen Hochschule Thurgau (PHTG) und dem Amt für Volksschule
+event_url: https://www.phtg.ch/hochschule/die-phtg/aktuell/veranstaltungen/thementagung-phtgav-2022/
 
-location: Wowchemy HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+location: Kreuzlingen, Schweiz
+# address:
+#   street: 450 Serra Mall
+#   city: Stanford
+#   region: CA
+#   postcode: '94305'
+#   country: United States
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: Vortrag im Rahmen der Thementagung der Pädagogischen Hochschule Thurgau (PHTG) und dem Amt für Volksschule 2022
+abstract: "Der Vortrag fand ihm Rahmen des Workshops 'Das Geheimnis erfolgreichen Lernens: im Zusammenspiel von Motivation & Wille? statt. Thema war die Selbstregulationsstrategie WOOP, die das Erreichen von Zielen unterstützt.'"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2022-01-09T16:15:00Z"
+date_end: "2022-01-09T17:15:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
 
-authors: []
-tags: []
+authors: [admin]
+tags: [self-control, mental contrasting with implementation intentions (MCII), goals, if-then planning]
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
 links:
@@ -41,7 +41,7 @@ links:
   url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "uploads/2022_PHTG_WOOP.pdf"
 url_video: ""
 
 # Markdown Slides (optional).
@@ -49,7 +49,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

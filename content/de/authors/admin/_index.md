@@ -14,7 +14,7 @@ organizations:
   url: https://www.uni-konstanz.de/
 
 # Short bio (displayed in user profile at end of posts)
-bio: In meiner Forschung beschäftie ich mich mit mentaler und körperlicher Anstrengung, Selbstkontrolle und Verhaltensänderung sowie mit Emotionen im Leistungskontext.
+bio: In meiner Forschung beschäftige ich mich mit mentaler und körperlicher Anstrengung, Selbstkontrolle und Verhaltensänderung sowie mit Emotionen im Leistungskontext.
 
 # Interests to show in About widget
 interests:
@@ -79,6 +79,6 @@ highlight_name: true
 # {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/# demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 ---
 
-Ich bin Forscher im [Sportpsychologischen Labor](https://www.sportwissenschaft.uni-konstanz.de/schueler/) der Universität Konstanz. Mein Forschungsinteresse liegt darin, die Rolle von Anstrengung im menschlichen Verhalten zu verstehen. Dabei fokussiere ich besonderes auf Faktoren, die Verhalten anstrengend machen (z.B. Langeweile) und auf Selbstkontrollstrategien, die Anstrengung reduzieren (z.B. Wenn-Dann Pläne). Ich kombiniere effektive Forschungsdesigns (z.B. Laborexperimente und Panel-Feldstudien) mit aktuellen Methoden der Datenanalyse (z. B. gemischte Modelle und psychometrische Netzwerke), um theoretische Fortschritte zu machen und angewandte Interventionen in verschiedenen Kontexten zu entwickeln (z.B. Gesundheit und Bildung). 
+Ich bin Forscher im [Sportpsychologischen Labor](https://www.sportwissenschaft.uni-konstanz.de/schueler/) der Universität Konstanz. Mein Forschungsinteresse liegt darin, die Rolle von Anstrengung im menschlichen Verhalten zu verstehen. Dabei fokussiere ich besonderes auf Faktoren, die Verhalten anstrengend machen (z.B. Langeweile) und auf Selbstkontrollstrategien, die Anstrengung reduzieren (z.B. Wenn-Dann Pläne). Ich kombiniere effektive Forschungsdesigns (z.B. Laborexperimente und Panel-Feldstudien) mit aktuellen Methoden der Datenanalyse (z. B. gemischte Modelle und psychometrische Netzwerke), für theoretische Beiträge zu Literatur und zur Entwicklung angewandter Interventionen in verschiedenen Kontexten (z.B. Förderung von Gesundheit und Leistung in Sport und Bildung). 
 
 
