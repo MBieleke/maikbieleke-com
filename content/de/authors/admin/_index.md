@@ -11,7 +11,7 @@ role: Wissenschaftler und Psychologe
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Universität Konstanz
-  url: https://www.uni-konstanz.de/
+  url: https://scikon.uni-konstanz.de/personen/profile/maik.bieleke/
 
 # Short bio (displayed in user profile at end of posts)
 bio: In meiner Forschung beschäftige ich mich mit mentaler und körperlicher Anstrengung, Selbstkontrolle und Verhaltensänderung sowie mit Emotionen im Leistungskontext.

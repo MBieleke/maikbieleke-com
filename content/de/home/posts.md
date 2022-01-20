@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 21
 
-title: Neues
+title: Aktuelles
 subtitle:
 
 content:

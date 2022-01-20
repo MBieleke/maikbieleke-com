@@ -11,7 +11,7 @@ role: Senior Researcher in Psychology
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: University of Konstanz
-  url: https://www.uni-konstanz.de/
+  url: https://scikon.uni-konstanz.de/personen/profile/maik.bieleke/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include mental and physical effort, self-control and behavior change, and emotions related to achievement.
