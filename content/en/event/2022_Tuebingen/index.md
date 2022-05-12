@@ -4,7 +4,7 @@ title: "The self-control strategy of if-then planning"
 event: Presentation at the University of Tuebingen
 #event_url: https://www.phtg.ch/hochschule/die-phtg/aktuell/veranstaltungen/thementagung-phtgav-2022/
 
-location: Kreuzlingen, Switzerland
+location: Tuebingen, Germany
 # address:
 #   street: 450 Serra Mall
 #   city: Stanford
@@ -12,20 +12,20 @@ location: Kreuzlingen, Switzerland
 #   postcode: '94305'
 #   country: United States
 
-summary: Public lecture at the conference of the Thurgau University of Teacher Education (PHTG) and the Amt für Volksschule 2022
-abstract: "People find it difficult to achieve goals for many reasons. Therefore, effective strategies to support goal striving are important. In this presentation, I will present the self-regulation strategy WOOP, which can improve the achievement of goals in many areas of life. Empirical research on WOOP will be discussed as well as the process of performing WOOP. The presentation concludes the workshop jointly organized by Dr. Maik Bieleke and Dr. Wanja Wolff 'The secret of successful learning: In the interplay of motivation & will?'"
+summary: Invited talk at the research colloquium of Prof. Dr. Caterina Gawrilow (Department of Psychology, Chair of School Psychology)
+abstract: In this talk, I presented the latest research on the self-control strategy of if-then planning. A first focus was on research examining if-then planning effects in the domain of sports. A second focus was on individual differences in the propensity to engage in if-then planning. In the final part of the talk, if-then planning was charatcerized as an important guiding signal for regulating effort.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2022-01-19T16:15:00Z"
-date_end: "2022-01-19T17:15:00Z"
+date: "2022-05-12T12:00:00Z"
+date_end: "2022-05-12T13:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2022-05-12T00:00:00Z"
 
 authors: [admin]
-tags: [self-control, mental contrasting with implementation intentions (MCII), goals, if-then planning]
+tags: [self-control, implementation intentions (MCII), goals, if-then planning]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -38,7 +38,7 @@ links:
 - icon: file-pdf
   icon_pack: fas
   name: Slides (German)
-  url: "uploads/2022_PHTG_WOOP.pdf"
+  url: "uploads/2022_Tuebingen.pdf"
 url_code: ""
 url_pdf: ""
 url_slides: ""
