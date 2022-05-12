@@ -11,8 +11,8 @@ active: true
 # Order that this section appears on the page.
 weight: 21
 
-title: ""
+title: Twitter News
 subtitle: ""
 ---
 
-<a class="twitter-timeline" data-height="500" data-theme="light" href="https://twitter.com/MBieleke?ref_src=twsrc%5Etfw">Tweets by MBieleke</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-height="1000" data-theme="light" href="https://twitter.com/MBieleke?ref_src=twsrc%5Etfw">Tweets by MBieleke</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
