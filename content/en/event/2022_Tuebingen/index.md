@@ -1,10 +1,10 @@
 ---
 title: "The self-control strategy of if-then planning"
 
-event: Presentation at the University of Tuebingen
+event: Research Seminar of Prof. Dr. Caterina Gawrilow (Department of Psychology, Chair of School Psychology)
 #event_url: https://www.phtg.ch/hochschule/die-phtg/aktuell/veranstaltungen/thementagung-phtgav-2022/
 
-location: Tuebingen, Germany
+location: University of Tuebingen, Germany
 # address:
 #   street: 450 Serra Mall
 #   city: Stanford
@@ -12,7 +12,7 @@ location: Tuebingen, Germany
 #   postcode: '94305'
 #   country: United States
 
-summary: Invited talk at the research colloquium of Prof. Dr. Caterina Gawrilow (Department of Psychology, Chair of School Psychology)
+summary: Invited talk in the research seminar of Prof. Dr. Caterina Gawrilow at the University of Tuebingen (Department of Psychology, Chair of School Psychology)
 abstract: In this talk, I presented the latest research on the self-control strategy of if-then planning. A first focus was on research examining if-then planning effects in the domain of sports. A second focus was on individual differences in the propensity to engage in if-then planning. In the final part of the talk, if-then planning was charatcerized as an important guiding signal for regulating effort.
 
 # Talk start and end times.

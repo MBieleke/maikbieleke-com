@@ -1,10 +1,10 @@
 ---
 title: "The self-control strategy of if-then planning"
 
-event: Präsentation an der Universität Tübingen
+event: Forschungsseminar von Frau Prof. Dr. Caterina Gawrilow (Fakultät für Psychologie, Lehrstuhl für Schulpsychologie)
 #event_url: https://www.phtg.ch/hochschule/die-phtg/aktuell/veranstaltungen/thementagung-phtgav-2022/
 
-location: Tübingen, Deutschland
+location: Universität Tübingen, Deutschland
 # address:
 #   street: 450 Serra Mall
 #   city: Stanford
@@ -12,7 +12,7 @@ location: Tübingen, Deutschland
 #   postcode: '94305'
 #   country: United States
 
-summary: Eingeladener Vortrag im Forschungsseminar von Frau Prof. Dr. Caterina Gawrilow (Fakultät für Psychologie, Lehrstuhl für Schulpsychologie)
+summary: Eingeladener Vortrag im Forschungsseminar von Frau Prof. Dr. Caterina Gawrilow an der Universität Tübingen (Fakultät für Psychologie, Lehrstuhl für Schulpsychologie)
 abstract: In diesem Vortrag habe ich die neueste Forschung zur Selbstkontrollstrategie des Wenn-Dann Planens vorgestellt. Ein erster Schwerpunkt lag auf der Forschung zu den Effekten von Wenn-Dann Plänen im Sport. Ein zweiter Fokus lag auf individuellen Unterschieden in der Neigung zum Verwenden von Wenn-Dann Plänen. Abschließend wurden Wenn-Dann Pläne als Signal für die Regulierung von Anstrengung charakterisiert.
 
 # Talk start and end times.
