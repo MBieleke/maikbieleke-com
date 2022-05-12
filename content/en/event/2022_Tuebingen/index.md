@@ -1,7 +1,7 @@
 ---
 title: "The self-control strategy of if-then planning"
 
-event: Research Seminar of Prof. Dr. Caterina Gawrilow (Department of Psychology, Chair of School Psychology)
+event: Invited talk
 #event_url: https://www.phtg.ch/hochschule/die-phtg/aktuell/veranstaltungen/thementagung-phtgav-2022/
 
 location: University of Tuebingen, Germany
