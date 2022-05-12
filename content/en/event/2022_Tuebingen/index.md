@@ -12,8 +12,8 @@ location: University of Tuebingen, Germany
 #   postcode: '94305'
 #   country: United States
 
-summary: Invited talk in the research seminar of Prof. Dr. Caterina Gawrilow at the University of Tuebingen (Department of Psychology, Chair of School Psychology)
-abstract: In this talk, I presented the latest research on the self-control strategy of if-then planning. A first focus was on research examining if-then planning effects in the domain of sports. A second focus was on individual differences in the propensity to engage in if-then planning. In the final part of the talk, if-then planning was charatcerized as an important guiding signal for regulating effort.
+summary: Invited talk at the research seminar of Prof. Dr. Caterina Gawrilow (Department of Psychology, Chair of School Psychology)
+abstract: In this talk, I presented the latest research on the self-control strategy of if-then planning. A first focus was on research examining if-then planning effects in the domain of sports. A second focus was on individual differences in the propensity to engage in if-then planning. In the final part of the talk, I characterized if-then planning as an important guiding signal for regulating effort.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -25,7 +25,7 @@ all_day: false
 publishDate: "2022-05-12T00:00:00Z"
 
 authors: [admin]
-tags: [self-control, implementation intentions (MCII), goals, if-then planning]
+tags: [self-control, implementation intentions, goals, if-then planning, sports, if-then planning scale (ITPS)]
 
 # Is this a featured talk? (true/false)
 featured: false

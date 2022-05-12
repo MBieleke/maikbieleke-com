@@ -12,8 +12,8 @@ location: Universität Tübingen, Deutschland
 #   postcode: '94305'
 #   country: United States
 
-summary: Eingeladener Vortrag im Forschungsseminar von Frau Prof. Dr. Caterina Gawrilow an der Universität Tübingen (Fakultät für Psychologie, Lehrstuhl für Schulpsychologie)
-abstract: In diesem Vortrag habe ich die neueste Forschung zur Selbstkontrollstrategie des Wenn-Dann Planens vorgestellt. Ein erster Schwerpunkt lag auf der Forschung zu den Effekten von Wenn-Dann Plänen im Sport. Ein zweiter Fokus lag auf individuellen Unterschieden in der Neigung zum Verwenden von Wenn-Dann Plänen. Abschließend wurden Wenn-Dann Pläne als Signal für die Regulierung von Anstrengung charakterisiert.
+summary: Eingeladener Vortrag im Forschungsseminar von Frau Prof. Dr. Caterina Gawrilow (Fakultät für Psychologie, Lehrstuhl für Schulpsychologie)
+abstract: In diesem Vortrag habe ich die neueste Forschung zur Selbstkontrollstrategie des Wenn-Dann Planens vorgestellt. Ein erster Schwerpunkt lag auf der Forschung zu den Effekten von Wenn-Dann Plänen im Sport. Ein zweiter Fokus lag auf individuellen Unterschieden in der Neigung zum Verwenden von Wenn-Dann Plänen. Abschließend habe ich Wenn-Dann Pläne als Signal für die Regulierung von Anstrengung charakterisiert.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -25,7 +25,7 @@ all_day: false
 publishDate: "2022-05-12T00:00:00Z"
 
 authors: [admin]
-tags: [self-control, implementation intentions (MCII), goals, if-then planning]
+tags: [self-control, implementation intentions, goals, if-then planning, sports, if-then planning scale (ITPS)]
 
 # Is this a featured talk? (true/false)
 featured: false
