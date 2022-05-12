@@ -1,10 +1,10 @@
 ---
 title: "The self-control strategy of if-then planning"
 
-event: Presentation at the University of Tuebingen
+event: Präsentation an der Universität Tübingen
 #event_url: https://www.phtg.ch/hochschule/die-phtg/aktuell/veranstaltungen/thementagung-phtgav-2022/
 
-location: Tuebingen, Germany
+location: Tübingen, Deutschland
 # address:
 #   street: 450 Serra Mall
 #   city: Stanford
@@ -12,8 +12,8 @@ location: Tuebingen, Germany
 #   postcode: '94305'
 #   country: United States
 
-summary: Invited talk at the research colloquium of Prof. Dr. Caterina Gawrilow (Department of Psychology, Chair of School Psychology)
-abstract: In this talk, I presented the latest research on the self-control strategy of if-then planning. A first focus was on research examining if-then planning effects in the domain of sports. A second focus was on individual differences in the propensity to engage in if-then planning. In the final part of the talk, if-then planning was charatcerized as an important guiding signal for regulating effort.
+summary: Eingeladener Vortrag im Forschungsseminar von Frau Prof. Dr. Caterina Gawrilow (Fakultät für Psychologie, Lehrstuhl für Schulpsychologie)
+abstract: In diesem Vortrag habe ich die neueste Forschung zur Selbstkontrollstrategie des Wenn-Dann Planens vorgestellt. Ein erster Schwerpunkt lag auf der Forschung zu den Effekten von Wenn-Dann Plänen im Sport. Ein zweiter Fokus lag auf individuellen Unterschieden in der Neigung zum Verwenden von Wenn-Dann Plänen. Abschließend wurden Wenn-Dann Pläne als Signal für die Regulierung von Anstrengung charakterisiert.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
